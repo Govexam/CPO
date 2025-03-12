@@ -1854,9 +1854,6 @@
       "CorrectAnswer": "C",
       "Explanation": "BCED: arrival (B), housing (C), similarity to Alps (E), difference in roofs (D)."
     },
-    
-{
-  "paragraph_sequencing": [
     {
       "QuestionID": "Q186",
       "QuestionText": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.\nA. 'I’ll forget it for sure,' said the Hodja, 'Write it on a piece of paper for me.'\nB. Hodja Nasruddin purchased a piece of meat at the market, and on his way home he met a friend.\nC. The friend wrote, 'Don’t forget the meat,' and handed the note to Hodja.\nD. When he got home, he took out the note and read it aloud to his wife.\nE. His wife asked, 'Where is the meat?' and Hodja replied, 'Oh no! I forgot it after all.'",
