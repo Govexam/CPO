@@ -749,8 +749,7 @@
       "OptionD": "The staff is cleaning the room yesterday.",
       "CorrectAnswer": "A",
       "Explanation": "'Cleaned' shifts back to active past tense."
-    },
-    
+    },  
     {
       "QuestionID": "Q76",
       "QuestionText": "Select the most appropriate option to fill in the blank: 'They ___ the movie if they had arrived on time.'",
@@ -881,8 +880,7 @@
       "CorrectAnswer": "A",
       "Explanation": "'Have decided' should be 'has decided' for singular 'team.'"
     },
-  
-    {
+  {
       "QuestionID": "Q89",
       "QuestionText": "Select the option that expresses the given sentence in direct speech: 'The official from the Metrological Department predicted that there would be heavy fog in Delhi the next day.'",
       "OptionA": "The official from the Metrological Department said, 'Heavy fog will descend in Delhi tomorrow.'",
@@ -1541,9 +1539,7 @@
       "OptionD": "Madam Mahima told the students to listen carefully to what she was teaching.",
       "CorrectAnswer": "D",
       "Explanation": "'Told' and 'was teaching' adjust the command and tense."
-    }
-  ],
-  "vocabulary": [
+    },
     {
       "QuestionID": "Q155",
       "QuestionText": "Select the most appropriate ANTONYM of the given word: 'Extravagant'",
