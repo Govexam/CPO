@@ -321,6 +321,568 @@
       "Explanation": "The passage implies the Company bought goods cheaply in new lands to sell at higher prices in Europe."
     },
     {
+      "QuestionID": "Q33",
+      "QuestionText": "What was the primary motivation for the East India Company to establish trading posts in India? [Ref: East India Company Passage]",
+      "OptionA": "To spread British culture",
+      "OptionB": "To secure cheap goods for profit",
+      "OptionC": "To establish a military presence",
+      "OptionD": "To explore new territories",
+      "CorrectAnswer": "B",
+      "Explanation": "The passage highlights profit through buying cheap and selling at higher prices."
+    },
+    {
+      "QuestionID": "Q34",
+      "QuestionText": "According to the passage, the East India Company’s success depended on: [Ref: East India Company Passage]",
+      "OptionA": "Eliminating competition",
+      "OptionB": "Forming alliances with local rulers",
+      "OptionC": "Building advanced ships",
+      "OptionD": "Discovering new trade routes",
+      "CorrectAnswer": "A",
+      "Explanation": "Success came from excluding competitors to control trade."
+    },
+    {
+      "QuestionID": "Q35",
+      "QuestionText": "Select the most appropriate option to fill in the blank: 'The East India Company ___ its influence in India over the 17th and 18th centuries.'",
+      "OptionA": "expanded",
+      "OptionB": "reduced",
+      "OptionC": "maintained",
+      "OptionD": "lost",
+      "CorrectAnswer": "A",
+      "Explanation": "'Expanded' fits the historical growth of the Company’s power."
+    },
+    {
+      "QuestionID": "Q36",
+      "QuestionText": "What can be inferred about mercantile companies from the passage? [Ref: East India Company Passage]",
+      "OptionA": "They were primarily explorers",
+      "OptionB": "They relied on trade monopolies",
+      "OptionC": "They avoided conflicts",
+      "OptionD": "They focused on local governance",
+      "CorrectAnswer": "B",
+      "Explanation": "The passage implies monopolistic trade practices."
+    },
+    {
+      "QuestionID": "Q37",
+      "QuestionText": "Select the most appropriate option to fill in blank No. 1: 'The Industrial Revolution, which began in Britain in the late 18th century, marked a (1) shift in manufacturing processes.' [New Passage: Industrial Revolution]",
+      "OptionA": "gradual",
+      "OptionB": "significant",
+      "OptionC": "temporary",
+      "OptionD": "minor",
+      "CorrectAnswer": "B",
+      "Explanation": "'Significant' reflects the major impact of the Industrial Revolution."
+    },
+    {
+      "QuestionID": "Q38",
+      "QuestionText": "Select the most appropriate option to fill in blank No. 2: 'It introduced machinery that (2) human labor in many industries.' [Ref: Industrial Revolution Passage]",
+      "OptionA": "supported",
+      "OptionB": "replaced",
+      "OptionC": "enhanced",
+      "OptionD": "limited",
+      "CorrectAnswer": "B",
+      "Explanation": "'Replaced' indicates machinery taking over human tasks."
+    },
+    {
+      "QuestionID": "Q39",
+      "QuestionText": "Select the most appropriate option to fill in blank No. 3: 'Factories sprang up, leading to rapid urbanization as people moved to cities (3) work.' [Ref: Industrial Revolution Passage]",
+      "OptionA": "in search of",
+      "OptionB": "away from",
+      "OptionC": "without",
+      "OptionD": "against",
+      "CorrectAnswer": "A",
+      "Explanation": "'In search of' fits the migration for job opportunities."
+    },
+    {
+      "QuestionID": "Q40",
+      "QuestionText": "Select the most appropriate option to fill in blank No. 4: 'This period also saw the (4) of new social classes, including a growing working class.' [Ref: Industrial Revolution Passage]",
+      "OptionA": "decline",
+      "OptionB": "emergence",
+      "OptionC": "disappearance",
+      "OptionD": "stagnation",
+      "CorrectAnswer": "B",
+      "Explanation": "'Emergence' reflects the rise of new social groups."
+    },
+    {
+      "QuestionID": "Q41",
+      "QuestionText": "What was one major outcome of the Industrial Revolution according to the passage? [Ref: Industrial Revolution Passage]",
+      "OptionA": "Increased rural populations",
+      "OptionB": "Growth of urban centers",
+      "OptionC": "Decline in manufacturing",
+      "OptionD": "Reduction in workforce",
+      "CorrectAnswer": "B",
+      "Explanation": "Urbanization is highlighted as people moved to cities."
+    },
+    {
+      "QuestionID": "Q42",
+      "QuestionText": "Select the most appropriate option to fill in blank No. 5: 'However, the rapid changes (5) harsh working conditions for many laborers.' [Ref: Industrial Revolution Passage]",
+      "OptionA": "prevented",
+      "OptionB": "improved",
+      "OptionC": "resulted in",
+      "OptionD": "avoided",
+      "CorrectAnswer": "C",
+      "Explanation": "'Resulted in' links changes to negative outcomes."
+    },
+    {
+      "QuestionID": "Q43",
+      "QuestionText": "Select the most appropriate option to fill in the blank: 'If I ___ earlier, I would have caught the train.'",
+      "OptionA": "leave",
+      "OptionB": "had left",
+      "OptionC": "left",
+      "OptionD": "will leave",
+      "CorrectAnswer": "B",
+      "Explanation": "'Had left' is past perfect for a hypothetical past situation."
+    },
+    {
+      "QuestionID": "Q44",
+      "QuestionText": "Select the option that expresses the given sentence in passive voice: 'The team completed the project ahead of schedule.'",
+      "OptionA": "The project was completed ahead of schedule by the team.",
+      "OptionB": "The project is completed ahead of schedule by the team.",
+      "OptionC": "The team was completed by the project ahead of schedule.",
+      "OptionD": "The project has been completed ahead of schedule by the team.",
+      "CorrectAnswer": "A",
+      "Explanation": "'Was completed' matches the past tense of the original."
+    },
+    {
+      "QuestionID": "Q45",
+      "QuestionText": "Parts of the following sentence have been given as options. Select the option that contains an error: 'She don’t like / to travel alone / because she feels / unsafe at night.'",
+      "OptionA": "to travel alone",
+      "OptionB": "She don’t like",
+      "OptionC": "because she feels",
+      "OptionD": "unsafe at night",
+      "CorrectAnswer": "B",
+      "Explanation": "'Don’t like' should be 'doesn’t like' for singular subject 'She.'"
+    },
+    {
+      "QuestionID": "Q46",
+      "QuestionText": "Select the most appropriate option to fill in the blank: 'The manager ___ the employees to submit their reports by Friday.'",
+      "OptionA": "asks",
+      "OptionB": "asked",
+      "OptionC": "asking",
+      "OptionD": "has ask",
+      "CorrectAnswer": "B",
+      "Explanation": "'Asked' is past tense, fitting a completed instruction."
+    },
+    {
+      "QuestionID": "Q47",
+      "QuestionText": "Select the option that will improve the underlined part of the given sentence: 'He is knowing the answer but refuses to tell us.'",
+      "OptionA": "knows",
+      "OptionB": "has known",
+      "OptionC": "is known",
+      "OptionD": "No improvement required",
+      "CorrectAnswer": "A",
+      "Explanation": "'Knows' corrects the incorrect progressive form 'is knowing.'"
+    },
+    {
+      "QuestionID": "Q48",
+      "QuestionText": "Select the option that expresses the given sentence in direct speech: 'The guide told us that the museum would close at 5 PM.'",
+      "OptionA": "The guide said to us, 'The museum will close at 5 PM.'",
+      "OptionB": "The guide said to us, 'The museum closes at 5 PM.'",
+      "OptionC": "The guide said to us, 'The museum would close at 5 PM.'",
+      "OptionD": "The guide said, 'The museum will be closing at 5 PM.'",
+      "CorrectAnswer": "A",
+      "Explanation": "'Will close' shifts back to future tense in direct speech."
+    },
+    {
+      "QuestionID": "Q49",
+      "QuestionText": "Select the most appropriate option to fill in blank No. 1: 'Climate change is one of the most (1) challenges facing the world today.' [New Passage: Climate Change]",
+      "OptionA": "trivial",
+      "OptionB": "pressing",
+      "OptionC": "irrelevant",
+      "OptionD": "simple",
+      "CorrectAnswer": "B",
+      "Explanation": "'Pressing' means urgent, fitting the context of climate change."
+    },
+    {
+      "QuestionID": "Q50",
+      "QuestionText": "Select the most appropriate option to fill in blank No. 2: 'Rising temperatures have led to the (2) of polar ice caps.' [Ref: Climate Change Passage]",
+      "OptionA": "expansion",
+      "OptionB": "preservation",
+      "OptionC": "melting",
+      "OptionD": "formation",
+      "CorrectAnswer": "C",
+      "Explanation": "'Melting' is the effect of rising temperatures on ice caps."
+    },
+    {
+      "QuestionID": "Q51",
+      "QuestionText": "Select the most appropriate option to fill in blank No. 3: 'This, in turn, causes sea levels to (3) , threatening coastal communities.' [Ref: Climate Change Passage]",
+      "OptionA": "drop",
+      "OptionB": "rise",
+      "OptionC": "stabilize",
+      "OptionD": "fluctuate",
+      "CorrectAnswer": "B",
+      "Explanation": "'Rise' connects melting ice to higher sea levels."
+    },
+    {
+      "QuestionID": "Q52",
+      "QuestionText": "Select the most appropriate option to fill in blank No. 4: 'Scientists urge governments to take (4) action to reduce carbon emissions.' [Ref: Climate Change Passage]",
+      "OptionA": "delayed",
+      "OptionB": "immediate",
+      "OptionC": "optional",
+      "OptionD": "gradual",
+      "CorrectAnswer": "B",
+      "Explanation": "'Immediate' reflects the urgency emphasized by scientists."
+    },
+    {
+      "QuestionID": "Q53",
+      "QuestionText": "What is a key consequence of climate change mentioned in the passage? [Ref: Climate Change Passage]",
+      "OptionA": "Improved agricultural yields",
+      "OptionB": "Threats to coastal areas",
+      "OptionC": "Stable weather patterns",
+      "OptionD": "Reduced global temperatures",
+      "CorrectAnswer": "B",
+      "Explanation": "Rising sea levels threaten coastal communities."
+    },
+    {
+      "QuestionID": "Q54",
+      "QuestionText": "Select the most appropriate option to fill in blank No. 5: 'Without such measures, the effects could be (5) for future generations.' [Ref: Climate Change Passage]",
+      "OptionA": "beneficial",
+      "OptionB": "negligible",
+      "OptionC": "disastrous",
+      "OptionD": "temporary",
+      "CorrectAnswer": "C",
+      "Explanation": "'Disastrous' underscores the severe potential impact."
+    },
+    {
+      "QuestionID": "Q55",
+      "QuestionText": "Select the option that expresses the given sentence in passive voice: 'The committee is reviewing the proposal this week.'",
+      "OptionA": "The proposal was reviewed by the committee this week.",
+      "OptionB": "The proposal is being reviewed by the committee this week.",
+      "OptionC": "The committee is being reviewed by the proposal this week.",
+      "OptionD": "The proposal has been reviewed by the committee this week.",
+      "CorrectAnswer": "B",
+      "Explanation": "'Is being reviewed' matches present continuous tense."
+    },
+    {
+      "QuestionID": "Q56",
+      "QuestionText": "Select the most appropriate option to fill in the blank: 'She ___ to the store if she had known we needed milk.'",
+      "OptionA": "went",
+      "OptionB": "would go",
+      "OptionC": "would have gone",
+      "OptionD": "will go",
+      "CorrectAnswer": "C",
+      "Explanation": "'Would have gone' is correct for a past unreal condition."
+    },
+    {
+      "QuestionID": "Q57",
+      "QuestionText": "Parts of the following sentence have been given as options. Select the option that contains an error: 'The children enjoys / playing in the park / every evening.'",
+      "OptionA": "playing in the park",
+      "OptionB": "The children enjoys",
+      "OptionC": "every evening",
+      "OptionD": "No error",
+      "CorrectAnswer": "B",
+      "Explanation": "'Enjoys' should be 'enjoy' for plural 'children.'"
+    },
+    {
+      "QuestionID": "Q58",
+      "QuestionText": "Select the option that will improve the underlined part of the given sentence: 'They are play football in the garden right now.'",
+      "OptionA": "are playing",
+      "OptionB": "have played",
+      "OptionC": "No improvement required",
+      "OptionD": "were playing",
+      "CorrectAnswer": "A",
+      "Explanation": "'Are playing' corrects to present continuous tense."
+    },
+    {
+      "QuestionID": "Q59",
+      "QuestionText": "Select the most appropriate option to fill in blank No. 1: 'The rise of artificial intelligence (AI) has (1) industries worldwide.' [New Passage: Artificial Intelligence]",
+      "OptionA": "transformed",
+      "OptionB": "ignored",
+      "OptionC": "delayed",
+      "OptionD": "preserved",
+      "CorrectAnswer": "A",
+      "Explanation": "'Transformed' reflects AI’s widespread impact."
+    },
+    {
+      "QuestionID": "Q60",
+      "QuestionText": "Select the most appropriate option to fill in blank No. 2: 'AI systems can (2) large amounts of data faster than humans.' [Ref: Artificial Intelligence Passage]",
+      "OptionA": "destroy",
+      "OptionB": "process",
+      "OptionC": "store",
+      "OptionD": "discard",
+      "CorrectAnswer": "B",
+      "Explanation": "'Process' fits AI’s ability to analyze data."
+    },
+    {
+      "QuestionID": "Q61",
+      "QuestionText": "Select the most appropriate option to fill in blank No. 3: 'This capability has led to advancements in fields (3) healthcare and finance.' [Ref: Artificial Intelligence Passage]",
+      "OptionA": "except",
+      "OptionB": "beyond",
+      "OptionC": "such as",
+      "OptionD": "without",
+      "CorrectAnswer": "C",
+      "Explanation": "'Such as' introduces examples like healthcare."
+    },
+    {
+      "QuestionID": "Q62",
+      "QuestionText": "Select the most appropriate option to fill in blank No. 4: 'However, there are concerns about job losses as machines (4) human roles.' [Ref: Artificial Intelligence Passage]",
+      "OptionA": "enhance",
+      "OptionB": "support",
+      "OptionC": "replace",
+      "OptionD": "assist",
+      "CorrectAnswer": "C",
+      "Explanation": "'Replace' aligns with job loss concerns."
+    },
+    {
+      "QuestionID": "Q63",
+      "QuestionText": "What is one potential downside of AI mentioned in the passage? [Ref: Artificial Intelligence Passage]",
+      "OptionA": "Improved efficiency",
+      "OptionB": "Employment reduction",
+      "OptionC": "Better healthcare",
+      "OptionD": "Increased data storage",
+      "CorrectAnswer": "B",
+      "Explanation": "Job losses are a noted concern."
+    },
+    {
+      "QuestionID": "Q64",
+      "QuestionText": "Select the most appropriate option to fill in blank No. 5: 'Experts suggest a (5) approach to balance AI benefits and risks.' [Ref: Artificial Intelligence Passage]",
+      "OptionA": "careless",
+      "OptionB": "hasty",
+      "OptionC": "cautious",
+      "OptionD": "random",
+      "CorrectAnswer": "C",
+      "Explanation": "'Cautious' fits the need to manage risks."
+    },
+    {
+      "QuestionID": "Q65",
+      "QuestionText": "Select the option that expresses the given sentence in indirect speech: 'He said, \"I will attend the meeting tomorrow.\"'",
+      "OptionA": "He said that he will attend the meeting tomorrow.",
+      "OptionB": "He said that he would attend the meeting tomorrow.",
+      "OptionC": "He said that I will attend the meeting tomorrow.",
+      "OptionD": "He said that he would attend the meeting that day.",
+      "CorrectAnswer": "B",
+      "Explanation": "'Would' shifts 'will' to past tense in reported speech."
+    },
+    {
+      "QuestionID": "Q66",
+      "QuestionText": "Select the most appropriate option to fill in the blank: 'The children ___ in the playground when it started to rain.'",
+      "OptionA": "play",
+      "OptionB": "were playing",
+      "OptionC": "played",
+      "OptionD": "have played",
+      "CorrectAnswer": "B",
+      "Explanation": "'Were playing' is past continuous for an ongoing action."
+    },
+    {
+      "QuestionID": "Q67",
+      "QuestionText": "Select the option that will improve the underlined part of the given sentence: 'She has forgot to bring her lunch today.'",
+      "OptionA": "has forgotten",
+      "OptionB": "forgot",
+      "OptionC": "No improvement required",
+      "OptionD": "is forgetting",
+      "CorrectAnswer": "A",
+      "Explanation": "'Has forgotten' is correct present perfect form."
+    },
+    {
+      "QuestionID": "Q68",
+      "QuestionText": "Parts of the following sentence have been given as options. Select the option that contains an error: 'Neither of the boys / are willing / to join the team / this year.'",
+      "OptionA": "Neither of the boys",
+      "OptionB": "are willing",
+      "OptionC": "to join the team",
+      "OptionD": "this year",
+      "CorrectAnswer": "B",
+      "Explanation": "'Are willing' should be 'is willing' as 'neither' is singular."
+    },
+    {
+      "QuestionID": "Q69",
+      "QuestionText": "Select the most appropriate option to fill in blank No. 1: 'Space exploration has always captured human (1) .' [New Passage: Space Exploration]",
+      "OptionA": "imagination",
+      "OptionB": "fear",
+      "OptionC": "apathy",
+      "OptionD": "disinterest",
+      "CorrectAnswer": "A",
+      "Explanation": "'Imagination' fits the fascination with space."
+    },
+    {
+      "QuestionID": "Q70",
+      "QuestionText": "Select the most appropriate option to fill in blank No. 2: 'The Apollo missions in the 1960s (2) the first human landings on the moon.' [Ref: Space Exploration Passage]",
+      "OptionA": "prevented",
+      "OptionB": "achieved",
+      "OptionC": "delayed",
+      "OptionD": "cancelled",
+      "CorrectAnswer": "B",
+      "Explanation": "'Achieved' reflects the success of the moon landings."
+    },
+    {
+      "QuestionID": "Q71",
+      "QuestionText": "Select the most appropriate option to fill in blank No. 3: 'Since then, space agencies have (3) their focus to Mars exploration.' [Ref: Space Exploration Passage]",
+      "OptionA": "shifted",
+      "OptionB": "abandoned",
+      "OptionC": "maintained",
+      "OptionD": "ignored",
+      "CorrectAnswer": "A",
+      "Explanation": "'Shifted' indicates a change in focus."
+    },
+    {
+      "QuestionID": "Q72",
+      "QuestionText": "Select the most appropriate option to fill in blank No. 4: 'Robotic rovers now (4) the Martian surface, collecting valuable data.' [Ref: Space Exploration Passage]",
+      "OptionA": "explore",
+      "OptionB": "destroy",
+      "OptionC": "construct",
+      "OptionD": "avoid",
+      "CorrectAnswer": "A",
+      "Explanation": "'Explore' fits the role of rovers."
+    },
+    {
+      "QuestionID": "Q73",
+      "QuestionText": "What is the current focus of space exploration according to the passage? [Ref: Space Exploration Passage]",
+      "OptionA": "Lunar missions",
+      "OptionB": "Mars exploration",
+      "OptionC": "Asteroid mining",
+      "OptionD": "Solar studies",
+      "CorrectAnswer": "B",
+      "Explanation": "The passage mentions a shift to Mars."
+    },
+    {
+      "QuestionID": "Q74",
+      "QuestionText": "Select the most appropriate option to fill in blank No. 5: 'Future missions may one day (5) human colonies beyond Earth.' [Ref: Space Exploration Passage]",
+      "OptionA": "prevent",
+      "OptionB": "limit",
+      "OptionC": "establish",
+      "OptionD": "reduce",
+      "CorrectAnswer": "C",
+      "Explanation": "'Establish' fits the idea of setting up colonies."
+    },
+    {
+      "QuestionID": "Q75",
+      "QuestionText": "Select the option that expresses the given sentence in active voice: 'The room was cleaned by the staff yesterday.'",
+      "OptionA": "The staff cleaned the room yesterday.",
+      "OptionB": "The staff has cleaned the room yesterday.",
+      "OptionC": "The room cleaned the staff yesterday.",
+      "OptionD": "The staff is cleaning the room yesterday.",
+      "CorrectAnswer": "A",
+      "Explanation": "'Cleaned' shifts back to active past tense."
+    },
+    
+    {
+      "QuestionID": "Q76",
+      "QuestionText": "Select the most appropriate option to fill in the blank: 'They ___ the movie if they had arrived on time.'",
+      "OptionA": "saw",
+      "OptionB": "would see",
+      "OptionC": "would have seen",
+      "OptionD": "will see",
+      "CorrectAnswer": "C",
+      "Explanation": "'Would have seen' is correct for a past unreal condition."
+    },
+    {
+      "QuestionID": "Q77",
+      "QuestionText": "Select the option that will improve the underlined part of the given sentence: 'The teacher explain the lesson very clearly yesterday.'",
+      "OptionA": "explains",
+      "OptionB": "explained",
+      "OptionC": "is explaining",
+      "OptionD": "No improvement required",
+      "CorrectAnswer": "B",
+      "Explanation": "'Explained' corrects to past tense."
+    },
+    {
+      "QuestionID": "Q78",
+      "QuestionText": "Parts of the following sentence have been given as options. Select the option that contains an error: 'Each of the girls / want to participate / in the dance competition.'",
+      "OptionA": "Each of the girls",
+      "OptionB": "want to participate",
+      "OptionC": "in the dance competition",
+      "OptionD": "No error",
+      "CorrectAnswer": "B",
+      "Explanation": "'Want' should be 'wants' for singular 'Each.'"
+    },
+    {
+      "QuestionID": "Q79",
+      "QuestionText": "Select the most appropriate option to fill in blank No. 1: 'The internet has (1) the way we communicate and access information.' [New Passage: Internet Revolution]",
+      "OptionA": "disrupted",
+      "OptionB": "revolutionized",
+      "OptionC": "maintained",
+      "OptionD": "complicated",
+      "CorrectAnswer": "B",
+      "Explanation": "'Revolutionized' reflects the transformative effect."
+    },
+    {
+      "QuestionID": "Q80",
+      "QuestionText": "Select the most appropriate option to fill in blank No. 2: 'It allows people to connect (2) across vast distances.' [Ref: Internet Revolution Passage]",
+      "OptionA": "slowly",
+      "OptionB": "instantly",
+      "OptionC": "rarely",
+      "OptionD": "carefully",
+      "CorrectAnswer": "B",
+      "Explanation": "'Instantly' highlights the speed of internet communication."
+    },
+    {
+      "QuestionID": "Q81",
+      "QuestionText": "Select the most appropriate option to fill in blank No. 3: 'Online platforms have (3) businesses to reach global markets.' [Ref: Internet Revolution Passage]",
+      "OptionA": "prevented",
+      "OptionB": "enabled",
+      "OptionC": "restricted",
+      "OptionD": "delayed",
+      "CorrectAnswer": "B",
+      "Explanation": "'Enabled' fits the expansion of business reach."
+    },
+    {
+      "QuestionID": "Q82",
+      "QuestionText": "Select the most appropriate option to fill in blank No. 4: 'However, it also poses challenges, such as (4) privacy concerns.' [Ref: Internet Revolution Passage]",
+      "OptionA": "reducing",
+      "OptionB": "enhancing",
+      "OptionC": "increasing",
+      "OptionD": "eliminating",
+      "CorrectAnswer": "C",
+      "Explanation": "'Increasing' aligns with rising privacy issues."
+    },
+    {
+      "QuestionID": "Q83",
+      "QuestionText": "What is a benefit of the internet mentioned in the passage? [Ref: Internet Revolution Passage]",
+      "OptionA": "Reduced global connectivity",
+      "OptionB": "Instant communication",
+      "OptionC": "Limited business growth",
+      "OptionD": "Fewer privacy concerns",
+      "CorrectAnswer": "B",
+      "Explanation": "Instant connection is a key advantage."
+    },
+    {
+      "QuestionID": "Q84",
+      "QuestionText": "Select the most appropriate option to fill in blank No. 5: 'Efforts are underway to (5) these issues through better regulations.' [Ref: Internet Revolution Passage]",
+      "OptionA": "ignore",
+      "OptionB": "address",
+      "OptionC": "worsen",
+      "OptionD": "delay",
+      "CorrectAnswer": "B",
+      "Explanation": "'Address' means to tackle the problems."
+    },
+    {
+      "QuestionID": "Q85",
+      "QuestionText": "Select the option that expresses the given sentence in direct speech: 'She told me that she had finished her homework.'",
+      "OptionA": "She said to me, 'I finish my homework.'",
+      "OptionB": "She said to me, 'I had finished my homework.'",
+      "OptionC": "She said to me, 'I have finished my homework.'",
+      "OptionD": "She said, 'She has finished her homework.'",
+      "CorrectAnswer": "C",
+      "Explanation": "'Have finished' shifts back to present perfect in direct speech."
+    },
+    {
+      "QuestionID": "Q86",
+      "QuestionText": "Select the most appropriate option to fill in the blank: 'By the time we arrived, the concert ___.'",
+      "OptionA": "starts",
+      "OptionB": "had started",
+      "OptionC": "is starting",
+      "OptionD": "will start",
+      "CorrectAnswer": "B",
+      "Explanation": "'Had started' is past perfect for an earlier action."
+    },
+    {
+      "QuestionID": "Q87",
+      "QuestionText": "Select the option that will improve the underlined part of the given sentence: 'The dog barks loud whenever strangers approach the house.'",
+      "OptionA": "barks loudly",
+      "OptionB": "bark loud",
+      "OptionC": "No improvement required",
+      "OptionD": "is barking loud",
+      "CorrectAnswer": "A",
+      "Explanation": "'Barks loudly' uses the correct adverb form."
+    },
+    {
+      "QuestionID": "Q88",
+      "QuestionText": "Parts of the following sentence have been given as options. Select the option that contains an error: 'The team have decided / to postpone the match / due to heavy rain.'",
+      "OptionA": "The team have decided",
+      "OptionB": "to postpone the match",
+      "OptionC": "due to heavy rain",
+      "OptionD": "No error",
+      "CorrectAnswer": "A",
+      "Explanation": "'Have decided' should be 'has decided' for singular 'team.'"
+    },
+  
+    {
       "QuestionID": "Q89",
       "QuestionText": "Select the option that expresses the given sentence in direct speech: 'The official from the Metrological Department predicted that there would be heavy fog in Delhi the next day.'",
       "OptionA": "The official from the Metrological Department said, 'Heavy fog will descend in Delhi tomorrow.'",
@@ -1271,9 +1833,7 @@
       "OptionD": "Excitement",
       "CorrectAnswer": "D",
       "Explanation": "'Excitement' matches 'exuberance' (high energy)."
-    }
-  ],
-  "paragraph_sequencing": [
+    },
     {
       "QuestionID": "Q184",
       "QuestionText": "Given below are six sentences of a paragraph. Sentence A is the beginning whereas sentence F is the last sentence of the para. The middle four sentences (B-E) are jumbled up. Select the option that gives their correct order forming a meaningful and coherent paragraph.\nA. A youngster quit Facebook in December after spending over three years on the social networking site.\nB. Like almost everyone from his 'friend’s circle,' the 20-year-old was a regular on the site.\nC. Last week a new feature on Facebook called Timeline forced him to reconsider the pros and cons of being on the networking site.\nD. With that one act, he bid a silent adieu to more than 300 contacts that he had added to his account during the period.\nE. He visited it every day to post photos and status updates.\nF. 'Everyone has some skeletons in their closet and I am just not comfortable with Facebook digging up and displaying all the facets of my life on a bulletin board,' said the youngster.",
@@ -1295,3 +1855,157 @@
       "Explanation": "BCED: arrival (B), housing (C), similarity to Alps (E), difference in roofs (D)."
     },
     
+{
+  "paragraph_sequencing": [
+    {
+      "QuestionID": "Q186",
+      "QuestionText": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.\nA. 'I’ll forget it for sure,' said the Hodja, 'Write it on a piece of paper for me.'\nB. Hodja Nasruddin purchased a piece of meat at the market, and on his way home he met a friend.\nC. The friend wrote, 'Don’t forget the meat,' and handed the note to Hodja.\nD. When he got home, he took out the note and read it aloud to his wife.\nE. His wife asked, 'Where is the meat?' and Hodja replied, 'Oh no! I forgot it after all.'",
+      "OptionA": "BACDE",
+      "OptionB": "BCDEA",
+      "OptionC": "BACED",
+      "OptionD": "BDCAE",
+      "CorrectAnswer": "A",
+      "Explanation": "BACDE: Hodja buys meat and meets friend (B), expresses forgetfulness (A), friend writes note (C), reads note at home (D), realizes he forgot (E)."
+    },
+    {
+      "QuestionID": "Q187",
+      "QuestionText": "Sentences of a paragraph are given below. While the first and the last sentences (A and F) are in the correct order, the sentences in between are jumbled up. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.\nA. Scientists have long been intrigued by the concept of time travel.\nB. Some argue that wormholes—hypothetical tunnels through spacetime—could make it feasible.\nC. However, no concrete evidence has yet been found to support these theories in practice.\nD. Theoretical physics offers several possibilities, including Einstein’s theory of relativity.\nE. Despite the fascination, time travel remains a speculative idea rather than a proven phenomenon.\nF. Until technology advances significantly, it will stay confined to the realm of science fiction.",
+      "OptionA": "DBEC",
+      "OptionB": "BDCE",
+      "OptionC": "DCBE",
+      "OptionD": "EDBC",
+      "CorrectAnswer": "A",
+      "Explanation": "DBEC: Theoretical basis (D), wormhole possibility (B), lack of evidence (E), speculative nature (C)."
+    },
+    {
+      "QuestionID": "Q188",
+      "QuestionText": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.\nA. She decided to plant a small garden in her backyard.\nB. Every morning, she watered the plants and checked their progress.\nC. Within a few weeks, tiny green shoots began to appear.\nD. By the end of summer, her garden was full of colorful flowers and fresh vegetables.\nE. She chose a variety of seeds, including tomatoes, carrots, and marigolds.",
+      "OptionA": "AEBCD",
+      "OptionB": "EACBD",
+      "OptionC": "AECBD",
+      "OptionD": "ABECD",
+      "CorrectAnswer": "C",
+      "Explanation": "AECBD: Decision to plant (A), seed selection (E), watering routine (B), shoots appear (C), full garden (D)."
+    },
+    {
+      "QuestionID": "Q189",
+      "QuestionText": "Sentences of a paragraph are given below. While the first and the last sentences (A and F) are in the correct order, the sentences in between are jumbled up. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.\nA. The annual village fair was a much-awaited event for everyone.\nB. Children ran around excitedly, playing games and enjoying rides.\nC. By evening, the fairground was illuminated with colorful lights.\nD. Local artisans displayed their crafts, attracting many visitors.\nE. The day ended with a spectacular fireworks display that left everyone in awe.\nF. It was a celebration that brought the entire community together.",
+      "OptionA": "BDCE",
+      "OptionB": "DBCE",
+      "OptionC": "BDCE",
+      "OptionD": "DCBE",
+      "CorrectAnswer": "B",
+      "Explanation": "DBCE: Crafts displayed (D), children’s activities (B), evening lights (C), fireworks (E)."
+    },
+    {
+      "QuestionID": "Q190",
+      "QuestionText": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.\nA. He packed his bags and headed to the station early in the morning.\nB. The train journey offered stunning views of the countryside.\nC. After months of planning, Rohan finally set off on his solo trip.\nD. He arrived at his destination by noon and checked into a small guesthouse.\nE. Along the way, he made notes of interesting places to explore.",
+      "OptionA": "CABED",
+      "OptionB": "ACBED",
+      "OptionC": "CBAED",
+      "OptionD": "CAEDB",
+      "CorrectAnswer": "C",
+      "Explanation": "CBAED: Planning (C), packing (A), train views (B), notes (E), arrival (D)."
+    },
+    {
+      "QuestionID": "Q191",
+      "QuestionText": "Sentences of a paragraph are given below. While the first and the last sentences (A and F) are in the correct order, the sentences in between are jumbled up. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.\nA. The discovery of penicillin marked a turning point in medical history.\nB. This breakthrough drastically reduced mortality rates from bacterial infections.\nC. It was accidentally found by Alexander Fleming in 1928 when he noticed mold inhibiting bacterial growth.\nD. Over the years, penicillin paved the way for the development of other antibiotics.\nE. Initially, its potential was not fully recognized until further research in the 1940s.\nF. Today, it remains one of the most significant contributions to modern medicine.",
+      "OptionA": "CDEB",
+      "OptionB": "CEDB",
+      "OptionC": "DCEB",
+      "OptionD": "ECDB",
+      "CorrectAnswer": "A",
+      "Explanation": "CDEB: Discovery (C), initial oversight (E), impact (D), reduced mortality (B)."
+    },
+    {
+      "QuestionID": "Q192",
+      "QuestionText": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.\nA. The storm hit the coastal town with unexpected ferocity.\nB. By morning, the streets were flooded, and power lines were down.\nC. Residents had been warned earlier, but few anticipated its strength.\nD. Emergency services worked tirelessly to rescue stranded families.\nE. Over the next few days, the community came together to rebuild.",
+      "OptionA": "ACBDE",
+      "OptionB": "CABDE",
+      "OptionC": "ACDBE",
+      "OptionD": "CADBE",
+      "CorrectAnswer": "A",
+      "Explanation": "ACBDE: Storm hits (A), warning ignored (C), flooding (B), rescue (D), rebuilding (E)."
+    },
+    {
+      "QuestionID": "Q193",
+      "QuestionText": "Sentences of a paragraph are given below. While the first and the last sentences (A and F) are in the correct order, the sentences in between are jumbled up. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.\nA. Learning a new language can be a rewarding experience.\nB. It also opens doors to new career opportunities and cultural understanding.\nC. Regular practice is essential to build vocabulary and improve fluency.\nD. Initially, it requires patience as mastering grammar and pronunciation takes time.\nE. Over time, learners often find themselves thinking in the new language.\nF. Ultimately, the effort pays off with the ability to communicate effectively.",
+      "OptionA": "DCBE",
+      "OptionB": "CDEB",
+      "OptionC": "DCEB",
+      "OptionD": "BCDE",
+      "CorrectAnswer": "C",
+      "Explanation": "DCEB: Initial effort (D), practice (C), thinking in language (E), opportunities (B)."
+    },
+    {
+      "QuestionID": "Q194",
+      "QuestionText": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.\nA. She enrolled in an online course to enhance her skills.\nB. After completing it, she applied for a promotion at work.\nC. The course required her to dedicate several hours each week.\nD. Her hard work paid off when she was selected for the new role.\nE. Initially, she struggled to balance her job and studies.",
+      "OptionA": "AECBD",
+      "OptionB": "ACEBD",
+      "OptionC": "EACBD",
+      "OptionD": "ACEDB",
+      "CorrectAnswer": "A",
+      "Explanation": "AECBD: Enrollment (A), struggle (E), dedication (C), completion (B), promotion (D)."
+    },
+    {
+      "QuestionID": "Q195",
+      "QuestionText": "Sentences of a paragraph are given below. While the first and the last sentences (A and F) are in the correct order, the sentences in between are jumbled up. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.\nA. The invention of the printing press revolutionized the spread of knowledge.\nB. Books became more accessible, leading to increased literacy rates.\nC. Johannes Gutenberg developed this technology in the mid-15th century.\nD. Before this, manuscripts were laboriously copied by hand.\nE. The impact was profound, as ideas could now reach a wider audience quickly.\nF. It laid the foundation for the modern era of mass communication.",
+      "OptionA": "CDEB",
+      "OptionB": "DCBE",
+      "OptionC": "CDBE",
+      "OptionD": "BDCE",
+      "CorrectAnswer": "C",
+      "Explanation": "CDBE: Gutenberg’s invention (C), previous method (D), accessibility (B), impact (E)."
+    },
+    {
+      "QuestionID": "Q196",
+      "QuestionText": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.\nA. He spent hours researching the best techniques for baking.\nB. His friends praised the delicious cake he made for the party.\nC. Determined to impress, he decided to bake a cake from scratch.\nD. After several failed attempts, he finally perfected the recipe.\nE. The process taught him patience and attention to detail.",
+      "OptionA": "CADBE",
+      "OptionB": "ACDEB",
+      "OptionC": "CADEB",
+      "OptionD": "CDAEB",
+      "CorrectAnswer": "C",
+      "Explanation": "CADEB: Decision (C), research (A), failures (D), perfection (E), praise (B)."
+    },
+    {
+      "QuestionID": "Q197",
+      "QuestionText": "Sentences of a paragraph are given below. While the first and the last sentences (A and F) are in the correct order, the sentences in between are jumbled up. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.\nA. The migration of birds is a fascinating natural phenomenon.\nB. Many species travel thousands of miles to reach their breeding grounds.\nC. They rely on environmental cues like temperature and daylight to time their journeys.\nD. Along the way, they face challenges such as predators and exhaustion.\nE. Scientists study these patterns to understand climate change impacts.\nF. Their incredible journeys highlight the wonders of the animal kingdom.",
+      "OptionA": "BCDE",
+      "OptionB": "CBDE",
+      "OptionC": "BDCE",
+      "OptionD": "CDBE",
+      "CorrectAnswer": "B",
+      "Explanation": "CBDE: Cues (C), travel distance (B), challenges (D), scientific study (E)."
+    },
+    {
+      "QuestionID": "Q198",
+      "QuestionText": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.\nA. The library was quiet except for the sound of turning pages.\nB. She found a cozy corner and settled in with her book.\nC. By afternoon, she had finished reading an entire novel.\nD. She visited the library every weekend to escape into stories.\nE. The smell of old books filled the air as she browsed the shelves.",
+      "OptionA": "DAEBC",
+      "OptionB": "ADEBC",
+      "OptionC": "DABEC",
+      "OptionD": "DEABC",
+      "CorrectAnswer": "A",
+      "Explanation": "DAEBC: Habit (D), library atmosphere (A), browsing (E), settling (B), finishing (C)."
+    },
+    {
+      "QuestionID": "Q199",
+      "QuestionText": "Sentences of a paragraph are given below. While the first and the last sentences (A and F) are in the correct order, the sentences in between are jumbled up. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.\nA. Solar energy is becoming an increasingly popular renewable resource.\nB. Advances in technology have made solar panels more efficient and affordable.\nC. Governments worldwide are offering incentives to encourage its adoption.\nD. It reduces reliance on fossil fuels, helping combat climate change.\nE. As a result, more households and businesses are switching to solar power.\nF. Its widespread use could transform the global energy landscape.",
+      "OptionA": "BDCE",
+      "OptionB": "CBDE",
+      "OptionC": "BCDE",
+      "OptionD": "DBCE",
+      "CorrectAnswer": "C",
+      "Explanation": "BCDE: Technology (B), incentives (C), environmental benefit (D), adoption (E)."
+    },
+    {
+      "QuestionID": "Q200",
+      "QuestionText": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.\nA. The festival began with a vibrant parade through the town.\nB. Local musicians played traditional tunes, adding to the festive mood.\nC. Visitors enjoyed a variety of foods from street vendors.\nD. By nightfall, the sky lit up with a dazzling fireworks display.\nE. People gathered early to secure spots along the main street.",
+      "OptionA": "EABCD",
+      "OptionB": "AEBCD",
+      "OptionC": "EACBD",
+      "OptionD": "ABECD",
+      "CorrectAnswer": "A",
+      "Explanation": "EABCD: Gathering (E), parade (A), music (B), food (C), fireworks (D)."
+    }
+  ]
+}
