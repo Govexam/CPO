@@ -1,0 +1,1297 @@
+{
+  "questions": [
+    {
+      "QuestionID": "Q1",
+      "QuestionText": "Select the most appropriate option to fill in the blank No. 1: 'When I visited one of Orkney's famous prehistoric (1) , the Maeshowe tomb, my first impression was of an unremarkable green mound (2) by a ditch.'",
+      "OptionA": "scenes",
+      "OptionB": "sights",
+      "OptionC": "seats",
+      "OptionD": "sites",
+      "CorrectAnswer": "D",
+      "Explanation": "'Sites' refers to locations, fitting the context of prehistoric places like Maeshowe tomb."
+    },
+    {
+      "QuestionID": "Q2",
+      "QuestionText": "Select the most appropriate option to fill in the blank No. 2: '...my first impression was of an unremarkable green mound (2) by a ditch.'",
+      "OptionA": "surrounding",
+      "OptionB": "surrounds",
+      "OptionC": "surrounded",
+      "OptionD": "surround",
+      "CorrectAnswer": "C",
+      "Explanation": "'Surrounded' is the correct past participle form describing the mound encircled by a ditch."
+    },
+    {
+      "QuestionID": "Q3",
+      "QuestionText": "Select the most appropriate option to fill in the blank No. 3: 'Despite its appearance, this 5,000-year-old (3) place is actually a masterpiece...'",
+      "OptionA": "buried",
+      "OptionB": "burry",
+      "OptionC": "burying",
+      "OptionD": "burial",
+      "CorrectAnswer": "D",
+      "Explanation": "'Burial' is a noun fitting the description of a tomb, a place for the dead."
+    },
+    {
+      "QuestionID": "Q4",
+      "QuestionText": "Select the most appropriate option to fill in the blank No. 4: '...is actually a masterpiece of (4) design and engineering...'",
+      "OptionA": "antiquated",
+      "OptionB": "ancient",
+      "OptionC": "historical",
+      "OptionD": "chronological",
+      "CorrectAnswer": "B",
+      "Explanation": "'Ancient' aligns with the 5,000-year-old context of the tomb."
+    },
+    {
+      "QuestionID": "Q5",
+      "QuestionText": "Select the most appropriate option to fill in the blank No. 5: '...and a testament (5) the skill of Orkney's prehistoric residents.'",
+      "OptionA": "by",
+      "OptionB": "at",
+      "OptionC": "to",
+      "OptionD": "on",
+      "CorrectAnswer": "C",
+      "Explanation": "'Testament to' is the correct idiomatic phrase meaning evidence of."
+    },
+    {
+      "QuestionID": "Q6",
+      "QuestionText": "Select the most appropriate option to fill in the blank No. 6: 'That’s because, (6) around three weeks either side of the winter solstice...'",
+      "OptionA": "about",
+      "OptionB": "for",
+      "OptionC": "in",
+      "OptionD": "with",
+      "CorrectAnswer": "B",
+      "Explanation": "'For' indicates duration, suitable for a time period like 'three weeks.'"
+    },
+    {
+      "QuestionID": "Q7",
+      "QuestionText": "Select the most appropriate option to fill in the blank No. 7: '...the winter solstice (which takes (7) on 21 or 22 December each year)...'",
+      "OptionA": "home",
+      "OptionB": "abode",
+      "OptionC": "room",
+      "OptionD": "place",
+      "CorrectAnswer": "D",
+      "Explanation": "'Takes place' is a fixed expression meaning 'occurs.'"
+    },
+    {
+      "QuestionID": "Q8",
+      "QuestionText": "Select the most appropriate option to fill in the blank No. 8: '...visitors have the chance to see something truly magical (8) here.'",
+      "OptionA": "occur",
+      "OptionB": "retire",
+      "OptionC": "arise",
+      "OptionD": "perform",
+      "CorrectAnswer": "A",
+      "Explanation": "'Occur' fits as an intransitive verb for something happening."
+    },
+    {
+      "QuestionID": "Q9",
+      "QuestionText": "Select the most appropriate option to fill in the blank No. 9: 'During this time of year, the narrow passage into the (9) becomes more than just an entrance...'",
+      "OptionA": "grave",
+      "OptionB": "memorial",
+      "OptionC": "tomb",
+      "OptionD": "graveyard",
+      "CorrectAnswer": "C",
+      "Explanation": "'Tomb' matches the earlier reference to 'Maeshowe tomb.'"
+    },
+    {
+      "QuestionID": "Q10",
+      "QuestionText": "Select the most appropriate option to fill in the blank No. 10: '...it was deliberately designed (10) with the setting of the midwinter sun.'",
+      "OptionA": "aligned",
+      "OptionB": "aligning",
+      "OptionC": "align",
+      "OptionD": "to align",
+      "CorrectAnswer": "D",
+      "Explanation": "'Designed to align' indicates purpose, fitting the context."
+    },
+    {
+      "QuestionID": "Q11",
+      "QuestionText": "Select the most appropriate option to fill in blank no. 1: 'The first aircraft of a (1) of 20 arrived on 23 December 2023 from Toulouse in France...'",
+      "OptionA": "batch",
+      "OptionB": "team",
+      "OptionC": "flock",
+      "OptionD": "gang",
+      "CorrectAnswer": "A",
+      "Explanation": "'Batch' refers to a group of items produced or delivered together, suitable for aircraft."
+    },
+    {
+      "QuestionID": "Q12",
+      "QuestionText": "Select the most appropriate option to fill in blank no. 2: '...and was (2) for the first time on 18 January.'",
+      "OptionA": "showcases",
+      "OptionB": "showcase",
+      "OptionC": "showcasing",
+      "OptionD": "showcased",
+      "CorrectAnswer": "D",
+      "Explanation": "'Showcased' is the correct past tense form for the action completed on 18 January."
+    },
+    {
+      "QuestionID": "Q13",
+      "QuestionText": "Select the most appropriate option to fill in blank no. 3: 'Five more (3) premium passenger aircrafts are scheduled...'",
+      "OptionA": "same",
+      "OptionB": "so",
+      "OptionC": "such",
+      "OptionD": "as",
+      "CorrectAnswer": "C",
+      "Explanation": "'Such' is an adjective modifying 'premium passenger aircrafts,' indicating type."
+    },
+    {
+      "QuestionID": "Q14",
+      "QuestionText": "Select the most appropriate option to fill in blank no. 4: '...are scheduled (4) by March this year.'",
+      "OptionA": "arrival",
+      "OptionB": "to arrive",
+      "OptionC": "arriving",
+      "OptionD": "arrived",
+      "CorrectAnswer": "B",
+      "Explanation": "'Scheduled to arrive' is the correct infinitive form for future action."
+    },
+    {
+      "QuestionID": "Q15",
+      "QuestionText": "Select the most appropriate option to fill in blank no. 5: 'This makes Air India (5) first Indian carrier to be operating the A350.'",
+      "OptionA": "one",
+      "OptionB": "an",
+      "OptionC": "the",
+      "OptionD": "a",
+      "CorrectAnswer": "C",
+      "Explanation": "'The' is used to specify Air India as the definitive first carrier."
+    },
+    {
+      "QuestionID": "Q16",
+      "QuestionText": "Select the most appropriate option to fill in blank no. 6: 'Commercial operations for the same are scheduled to begin (6) 22 January later this month.'",
+      "OptionA": "in",
+      "OptionB": "at",
+      "OptionC": "to",
+      "OptionD": "on",
+      "CorrectAnswer": "D",
+      "Explanation": "'On' is the correct preposition for a specific date like '22 January.'"
+    },
+    {
+      "QuestionID": "Q17",
+      "QuestionText": "Select the most appropriate option to fill in blank no. 7: 'With the induction of the A350, Air India is (7) to overhaul its image...'",
+      "OptionA": "supposing",
+      "OptionB": "believing",
+      "OptionC": "accepting",
+      "OptionD": "hoping",
+      "CorrectAnswer": "D",
+      "Explanation": "'Hoping' conveys Air India’s intention or expectation."
+    },
+    {
+      "QuestionID": "Q18",
+      "QuestionText": "Select the most appropriate option to fill in blank no. 8: 'The A350 comes equipped (8) a powerful and fuel-efficient Rolls-Royce Trent xwb engine.'",
+      "OptionA": "with",
+      "OptionB": "for",
+      "OptionC": "to",
+      "OptionD": "in",
+      "CorrectAnswer": "A",
+      "Explanation": "'Equipped with' is the standard phrase for describing included features."
+    },
+    {
+      "QuestionID": "Q19",
+      "QuestionText": "Select the most appropriate option to fill in blank no. 9: 'Once you (9) inside the aircraft, you can immediately (10) the three-class cabin configuration...'",
+      "OptionA": "skip",
+      "OptionB": "advance",
+      "OptionC": "step",
+      "OptionD": "forward",
+      "CorrectAnswer": "C",
+      "Explanation": "'Step inside' is a natural phrase for entering a space."
+    },
+    {
+      "QuestionID": "Q20",
+      "QuestionText": "Select the most appropriate option to fill in blank no. 10: '...you can immediately (10) the three-class cabin configuration...'",
+      "OptionA": "get",
+      "OptionB": "watch",
+      "OptionC": "see",
+      "OptionD": "look",
+      "CorrectAnswer": "C",
+      "Explanation": "'See' implies immediate perception, fitting the context."
+    },
+    {
+      "QuestionID": "Q21",
+      "QuestionText": "Select the most appropriate option to fill in blank No. 1: 'Organic farming 1 that nature stays clean and rich.'",
+      "OptionA": "envy",
+      "OptionB": "ensures",
+      "OptionC": "contradict",
+      "OptionD": "cherish",
+      "CorrectAnswer": "B",
+      "Explanation": "'Ensures' means to guarantee, fitting the positive outcome described."
+    },
+    {
+      "QuestionID": "Q22",
+      "QuestionText": "Select the most appropriate option to fill in blank No. 2: 'If we visit an organic farm, we will notice a 2 of animal, bird and insect activity.'",
+      "OptionA": "loathe",
+      "OptionB": "jog",
+      "OptionC": "sense",
+      "OptionD": "buzz",
+      "CorrectAnswer": "D",
+      "Explanation": "'Buzz' conveys lively activity, especially of insects and animals."
+    },
+    {
+      "QuestionID": "Q23",
+      "QuestionText": "Select the most appropriate option to fill in blank No. 3: 'Research shows that around 30% more wildlife and plants thrive 3 ecologically produced fields...'",
+      "OptionA": "out",
+      "OptionB": "downstairs",
+      "OptionC": "near",
+      "OptionD": "up",
+      "CorrectAnswer": "C",
+      "Explanation": "'Near' indicates proximity to the fields, making sense spatially."
+    },
+    {
+      "QuestionID": "Q24",
+      "QuestionText": "Select the most appropriate option to fill in blank No. 4: 'This is because there are no pesticides, and fertiliser is used 4.'",
+      "OptionA": "far off",
+      "OptionB": "far better",
+      "OptionC": "far away",
+      "OptionD": "far less",
+      "CorrectAnswer": "D",
+      "Explanation": "'Far less' contrasts organic farming’s minimal fertilizer use with conventional methods."
+    },
+    {
+      "QuestionID": "Q25",
+      "QuestionText": "Select the most appropriate option to fill in blank No. 5: 'Covid-19 pandemic has changed the 5 of organic food...'",
+      "OptionA": "practice",
+      "OptionB": "argument",
+      "OptionC": "perception",
+      "OptionD": "evolution",
+      "CorrectAnswer": "C",
+      "Explanation": "'Perception' refers to changed views or attitudes toward organic food."
+    },
+    {
+      "QuestionID": "Q26",
+      "QuestionText": "The survey was conducted mainly to know: [Ref: ASER 2023 Passage]",
+      "OptionA": "the level of foundational numeracy among the youth",
+      "OptionB": "the reading level and numeracy abilities of 14-18 year olds",
+      "OptionC": "the simple calculation skills of boys and girls",
+      "OptionD": "the reading abilities of Class 3 to 4 children",
+      "CorrectAnswer": "B",
+      "Explanation": "The ASER 2023 'Beyond Basics' survey focused on reading and numeracy skills of 14-18 year olds."
+    },
+    {
+      "QuestionID": "Q27",
+      "QuestionText": "How many youths could calculate the length of an object correctly if it was placed at the '0' mark on the ruler? [Ref: ASER 2023 Passage]",
+      "OptionA": "45 per cent",
+      "OptionB": "40 per cent",
+      "OptionC": "76 per cent",
+      "OptionD": "85 per cent",
+      "CorrectAnswer": "D",
+      "Explanation": "The passage states 85% could calculate correctly when placed at the '0' mark."
+    },
+    {
+      "QuestionID": "Q28",
+      "QuestionText": "According to ASER 2023, how much percentage of 14-18 year olds could divide a three-digit number by a one-digit number correctly? [Ref: ASER 2023 Passage]",
+      "OptionA": "45 per cent",
+      "OptionB": "43.3 per cent",
+      "OptionC": "65.1 per cent",
+      "OptionD": "25 per cent",
+      "CorrectAnswer": "B",
+      "Explanation": "The passage specifies that only 43.3% could do such division correctly."
+    },
+    {
+      "QuestionID": "Q29",
+      "QuestionText": "Which of the following is better done by girls than boys, according to the passage? [Ref: ASER 2023 Passage]",
+      "OptionA": "Calculating arithmetical problems",
+      "OptionB": "Reading simple English sentences",
+      "OptionC": "Carrying out a simple division sum",
+      "OptionD": "Reading a Class 2 level text in their regional language",
+      "CorrectAnswer": "D",
+      "Explanation": "Females (76%) outperformed males (70.9%) in reading regional language texts."
+    },
+    {
+      "QuestionID": "Q30",
+      "QuestionText": "The given passage is: [Ref: ASER 2023 Passage]",
+      "OptionA": "the executive summary of the Annual Status of Education Report",
+      "OptionB": "a news report about an educational survey",
+      "OptionC": "a press release by Pratham Foundation",
+      "OptionD": "a survey report on rural districts",
+      "CorrectAnswer": "B",
+      "Explanation": "The passage is structured as a news report, detailing survey findings."
+    },
+    {
+      "QuestionID": "Q31",
+      "QuestionText": "How did Mercantile companies make profit in the 17th century? [Ref: East India Company Passage]",
+      "OptionA": "They eliminated competition to buy cheap goods and sell them at higher prices.",
+      "OptionB": "They discovered new countries to trade with.",
+      "OptionC": "They traded with the East.",
+      "OptionD": "They fought wars with other companies.",
+      "CorrectAnswer": "A",
+      "Explanation": "The passage states profits were made by excluding competition to buy cheap and sell dear."
+    },
+    {
+      "QuestionID": "Q32",
+      "QuestionText": "What did East India Company do in India according to the passage? [Ref: East India Company Passage - truncated in original]",
+      "OptionA": "Established a trading base in Goa",
+      "OptionB": "Bought goods cheaply to sell in Europe",
+      "OptionC": "Fought battles with the Portuguese",
+      "OptionD": "Discovered the sea route to India",
+      "CorrectAnswer": "B",
+      "Explanation": "The passage implies the Company bought goods cheaply in new lands to sell at higher prices in Europe."
+    },
+    {
+      "QuestionID": "Q89",
+      "QuestionText": "Select the option that expresses the given sentence in direct speech: 'The official from the Metrological Department predicted that there would be heavy fog in Delhi the next day.'",
+      "OptionA": "The official from the Metrological Department said, 'Heavy fog will descend in Delhi tomorrow.'",
+      "OptionB": "The official from the Metrological Department said, 'Delhi will experience heavy fog tomorrow.'",
+      "OptionC": "The official from the Metrological Department said, 'There will be heavy fog in Delhi tomorrow.'",
+      "OptionD": "The official from the Metrological Department said, 'There would be heavy fog in Delhi the next day.'",
+      "CorrectAnswer": "C",
+      "Explanation": "Direct speech uses 'will' and 'tomorrow' to reflect the original prediction."
+    },
+    {
+      "QuestionID": "Q90",
+      "QuestionText": "Select the most appropriate option to fill in the blank: 'If you diligently study the intricacies of the language, you ___ that your proficiency in it improves significantly.'",
+      "OptionA": "will find",
+      "OptionB": "will be finding",
+      "OptionC": "have found",
+      "OptionD": "found",
+      "CorrectAnswer": "A",
+      "Explanation": "'Will find' is future tense, appropriate for a conditional outcome."
+    },
+    {
+      "QuestionID": "Q91",
+      "QuestionText": "Parts of the following sentence have been given as options. One of them may contain an error. Select the part that contains the error: 'We had coffee to the university café last evening.'",
+      "OptionA": "We had coffee",
+      "OptionB": "last evening",
+      "OptionC": "No error",
+      "OptionD": "to the university café",
+      "CorrectAnswer": "D",
+      "Explanation": "'To' should be 'at' as the correct preposition for location."
+    },
+    {
+      "QuestionID": "Q92",
+      "QuestionText": "Select the option that expresses the given sentence in passive voice: 'The scientist conducted a series of ground-breaking experiments, revealing new insights into the nature of dark matter.'",
+      "OptionA": "A series of ground-breaking experiments were conducted by the scientist, revealing new insights into the nature of dark matter.",
+      "OptionB": "A series of ground-breaking experiments have been conducted by the scientist, revealing new insights into the nature of dark matter.",
+      "OptionC": "A series of ground-breaking insights were conducted by the scientist, revealing new experiments into the nature of dark matter.",
+      "OptionD": "A series of ground-breaking experiments are conducted by the scientist, revealing new insights into the nature of dark matter.",
+      "CorrectAnswer": "A",
+      "Explanation": "Past tense 'were conducted' matches the original sentence’s tense."
+    },
+    {
+      "QuestionID": "Q93",
+      "QuestionText": "Select the option that will improve the underlined part of the given sentence: 'I saw that movie last week and it was really interesting.'",
+      "OptionA": "I seen that movie",
+      "OptionB": "I see that movie",
+      "OptionC": "No improvement required",
+      "OptionD": "I was seeing that movie",
+      "CorrectAnswer": "C",
+      "Explanation": "The sentence is already grammatically correct."
+    },
+    {
+      "QuestionID": "Q94",
+      "QuestionText": "Select the option that expresses the given sentence in passive voice: 'The gardener is planting flowers in the garden.'",
+      "OptionA": "Flowers are being planted in the garden by the gardener.",
+      "OptionB": "Flowers have been planted in the garden by the gardener.",
+      "OptionC": "Flowers will be planted in the garden by the gardener.",
+      "OptionD": "Flowers are planted in the garden by the gardener.",
+      "CorrectAnswer": "A",
+      "Explanation": "'Are being planted' reflects the present continuous tense."
+    },
+    {
+      "QuestionID": "Q95",
+      "QuestionText": "Select the most appropriate option to fill in the blank: 'If the weather forecast proves accurate, we ___ heavy snowfall in the region tomorrow.'",
+      "OptionA": "are having",
+      "OptionB": "need to have",
+      "OptionC": "should have",
+      "OptionD": "must have",
+      "CorrectAnswer": "C",
+      "Explanation": "'Should have' indicates a likely outcome based on the forecast."
+    },
+    {
+      "QuestionID": "Q96",
+      "QuestionText": "Select the option that will improve the underlined part of the given sentence: 'Last evening I have gone to the theatre to see a performance.'",
+      "OptionA": "I went",
+      "OptionB": "I was going",
+      "OptionC": "I am gone",
+      "OptionD": "No improvement required",
+      "CorrectAnswer": "A",
+      "Explanation": "'I went' corrects the tense to simple past for a completed action."
+    },
+    {
+      "QuestionID": "Q97",
+      "QuestionText": "Select the option that will improve the underlined part of the given sentence: 'The teacher along with the students were crossing the river, when the boat capsized.'",
+      "OptionA": "as well as the students were crossing",
+      "OptionB": "with the students were crossing",
+      "OptionC": "along with the students was crossing",
+      "OptionD": "No improvement required",
+      "CorrectAnswer": "C",
+      "Explanation": "'Was' agrees with the singular subject 'The teacher' despite the phrase 'along with.'"
+    },
+    {
+      "QuestionID": "Q98",
+      "QuestionText": "Select the most appropriate option to fill in the blank: 'After the storm ___, the explorers realised that their campsite had been completely flooded.'",
+      "OptionA": "was subsiding",
+      "OptionB": "is subsiding",
+      "OptionC": "had subsided",
+      "OptionD": "subsides",
+      "CorrectAnswer": "C",
+      "Explanation": "'Had subsided' indicates the storm ended before the realization (past perfect)."
+    },
+    {
+      "QuestionID": "Q99",
+      "QuestionText": "The following sentence has been divided into parts. One of them may contain an error. Select the part that contains the error: 'She use to eat / a lot of chocolates / when she was a child.'",
+      "OptionA": "when she was a child",
+      "OptionB": "a lot of chocolates",
+      "OptionC": "She use to eat",
+      "OptionD": "No error",
+      "CorrectAnswer": "C",
+      "Explanation": "'Use to' should be 'used to' for past habit."
+    },
+    {
+      "QuestionID": "Q100",
+      "QuestionText": "Select the option that will improve the underlined part of the given sentence: 'When I received the appointment letter from the college of Arts and Humanities, I was exhilarated.'",
+      "OptionA": "When I have received",
+      "OptionB": "When I receive",
+      "OptionC": "No improvement required",
+      "OptionD": "While I received",
+      "CorrectAnswer": "C",
+      "Explanation": "The sentence is already correct in past tense."
+    },
+    {
+      "QuestionID": "Q101",
+      "QuestionText": "Select the most appropriate option to fill in the blanks: 'He walked ___ the park and later strolled ___ the riverbank.'",
+      "OptionA": "through; along",
+      "OptionB": "against; across",
+      "OptionC": "over; through",
+      "OptionD": "besides; about",
+      "CorrectAnswer": "A",
+      "Explanation": "'Through' fits movement in the park; 'along' fits the riverbank."
+    },
+    {
+      "QuestionID": "Q102",
+      "QuestionText": "Select the option that expresses the given sentence in reported speech: 'Aditya said to Kavya, \"What do you prefer to do in your free time - painting or basketball practice?\"'",
+      "OptionA": "Aditya asked Kavya that what you prefer to do in your free time - painting or basketball practice.",
+      "OptionB": "Aditya asked Kavya what she preferred to do in her free time - painting or basketball practice.",
+      "OptionC": "Aditya asked Kavya what does she prefer to do in her free time - painting or basketball practice.",
+      "OptionD": "Aditya asked Kavya what did she prefer to do in her free time - painting or basketball practice.",
+      "CorrectAnswer": "B",
+      "Explanation": "'Preferred' shifts to past tense in reported form, with correct pronoun 'she.'"
+    },
+    {
+      "QuestionID": "Q103",
+      "QuestionText": "Select the option that expresses the given sentence in indirect speech: 'The mother said, \"I am busy today\".'",
+      "OptionA": "The mother told that I am busy today.",
+      "OptionB": "The mother told that she was busy today.",
+      "OptionC": "The mother said that she is busy today.",
+      "OptionD": "The mother said that she was busy that day.",
+      "CorrectAnswer": "D",
+      "Explanation": "'Was' and 'that day' adjust tense and time in indirect speech."
+    },
+    {
+      "QuestionID": "Q104",
+      "QuestionText": "Select the option that expresses the given sentence in passive voice: 'The director organised a meeting to discuss the upcoming projects.'",
+      "OptionA": "The upcoming projects were organised by the director to discuss the meeting.",
+      "OptionB": "A meeting has been organised by the director to discuss the upcoming projects.",
+      "OptionC": "A meeting was organised by the director to discuss the upcoming projects.",
+      "OptionD": "A meeting is organised by the director to discuss the upcoming projects.",
+      "CorrectAnswer": "C",
+      "Explanation": "'Was organised' matches the past tense of the original sentence."
+    },
+    {
+      "QuestionID": "Q105",
+      "QuestionText": "Select the option that expresses the given sentence in passive voice: 'Are the students discussing the upcoming exam in the library?'",
+      "OptionA": "Is the upcoming exam being discussed by the students in the library?",
+      "OptionB": "Has the upcoming exam been discussed by the students in the library?",
+      "OptionC": "What upcoming exam is being discussed by the students in the library?",
+      "OptionD": "Was the upcoming exam being discussed by the students in the library?",
+      "CorrectAnswer": "A",
+      "Explanation": "'Is being discussed' preserves the present continuous tense."
+    },
+    {
+      "QuestionID": "Q106",
+      "QuestionText": "Select the option that will improve the underlined part of the given sentence: 'Mine grandmother need a helper to keep her terrace garden in order.'",
+      "OptionA": "Mine grandmother needed",
+      "OptionB": "Mine grandmother needs",
+      "OptionC": "My grandmother needs",
+      "OptionD": "No improvement required",
+      "CorrectAnswer": "C",
+      "Explanation": "'My' corrects the possessive pronoun; 'needs' agrees with singular subject."
+    },
+    {
+      "QuestionID": "Q107",
+      "QuestionText": "Parts of the following sentence have been given as options. Select the option that contains an error: 'I was with the impression that I had returned the books that I had borrowed from you.'",
+      "OptionA": "I was with the impression",
+      "OptionB": "that I had returned",
+      "OptionC": "borrowed from you",
+      "OptionD": "the books that I had",
+      "CorrectAnswer": "A",
+      "Explanation": "'With the impression' should be 'under the impression.'"
+    },
+    {
+      "QuestionID": "Q108",
+      "QuestionText": "Select the option that expresses the given sentence in active voice: 'This cake was baked by Mary for your birthday.'",
+      "OptionA": "Mary has baked this cake for your birthday.",
+      "OptionB": "Mary bakes this cake for your birthday.",
+      "OptionC": "Mary has been baking this cake for your birthday.",
+      "OptionD": "Mary baked this cake for your birthday.",
+      "CorrectAnswer": "D",
+      "Explanation": "'Baked' matches the past tense of the original passive sentence."
+    },
+    {
+      "QuestionID": "Q109",
+      "QuestionText": "Select the option that expresses the given sentence in direct speech: 'I told my daughter that I would pick her up from school that week.'",
+      "OptionA": "I said to my daughter, 'I would pick her up from school that week.'",
+      "OptionB": "I said to my daughter, 'I will pick her up from school that week.'",
+      "OptionC": "I said to my daughter, 'I will pick you up from school this week.'",
+      "OptionD": "I said to my daughter, 'I will be picking her up from school this week.'",
+      "CorrectAnswer": "C",
+      "Explanation": "'You' and 'this week' align with direct speech adjustments."
+    },
+    {
+      "QuestionID": "Q110",
+      "QuestionText": "Select the option that expresses the given sentence in indirect speech: 'She said, \"I am going to the park.\"'",
+      "OptionA": "She said that she is going to the park.",
+      "OptionB": "She said she may be going to the park.",
+      "OptionC": "She said she will go to the park.",
+      "OptionD": "She said that she was going to the park.",
+      "CorrectAnswer": "D",
+      "Explanation": "'Was' shifts the tense to past in indirect speech."
+    },
+    {
+      "QuestionID": "Q111",
+      "QuestionText": "Parts of the following sentence have been given as options. One of them may contain an error: 'My mother give me fresh carrot juice every evening.'",
+      "OptionA": "No error",
+      "OptionB": "fresh carrot juice",
+      "OptionC": "every evening",
+      "OptionD": "My mother give me",
+      "CorrectAnswer": "D",
+      "Explanation": "'Give' should be 'gives' to agree with the singular subject 'My mother.'"
+    },
+    {
+      "QuestionID": "Q112",
+      "QuestionText": "Select the option that will improve the underlined part of the given sentence: 'She runs more faster than her brother in the track events.'",
+      "OptionA": "runs fast than",
+      "OptionB": "runs more fast than",
+      "OptionC": "runs faster than",
+      "OptionD": "No improvement required",
+      "CorrectAnswer": "C",
+      "Explanation": "'Faster' is the correct comparative form; 'more faster' is redundant."
+    },
+    {
+      "QuestionID": "Q113",
+      "QuestionText": "Select the option that expresses the given sentence in active voice: 'A state-of-the-art software program is being designed by our team to enhance the efficiency of our business operations.'",
+      "OptionA": "Our team has designed a state-of-the-art software program to enhance the efficiency of our business operations.",
+      "OptionB": "Our team will be designing a state-of-the-art software program to enhance the efficiency of our business operations.",
+      "OptionC": "Our team has been designing a state-of-the-art software program to enhance the efficiency of our business operations.",
+      "OptionD": "Our team is designing a state-of-the-art software program to enhance the efficiency of our business operations.",
+      "CorrectAnswer": "D",
+      "Explanation": "'Is designing' matches the present continuous tense of the original."
+    },
+    {
+      "QuestionID": "Q114",
+      "QuestionText": "Select the option that will improve the underlined part of the given sentence: 'A questionnaire will distributing to all the participants at the end of the session.'",
+      "OptionA": "will distribute",
+      "OptionB": "will be distributed",
+      "OptionC": "No improvement required",
+      "OptionD": "will be distributing",
+      "CorrectAnswer": "B",
+      "Explanation": "'Will be distributed' corrects the passive voice structure."
+    },
+    {
+      "QuestionID": "Q115",
+      "QuestionText": "Select the option that will improve the underlined part of the given sentence: 'He asked the speaker some questions until the session.'",
+      "OptionA": "while",
+      "OptionB": "through",
+      "OptionC": "during",
+      "OptionD": "No improvement required",
+      "CorrectAnswer": "C",
+      "Explanation": "'During' is appropriate for an action occurring within a time period."
+    },
+    {
+      "QuestionID": "Q116",
+      "QuestionText": "Select the option that expresses the given sentence in indirect speech: '\"Don’t forget to bring your umbrella,\" he said to her.'",
+      "OptionA": "He told her to bring your umbrella.",
+      "OptionB": "He told her don’t forget to bring her umbrella.",
+      "OptionC": "He reminded her to bring her umbrella.",
+      "OptionD": "He reminded her not to forget to bring your umbrella.",
+      "CorrectAnswer": "C",
+      "Explanation": "'Reminded' and 'her' adjust the command appropriately."
+    },
+    {
+      "QuestionID": "Q117",
+      "QuestionText": "Select the option that expresses the given sentence in reported speech: 'Avika says, \"I have completed the math assignment.\"'",
+      "OptionA": "Avika said that she has completed the math assignment.",
+      "OptionB": "Avika says that she has completed the math assignment.",
+      "OptionC": "Avika says that she had completed the math assignment.",
+      "OptionD": "Avika says that I have completed the math assignment.",
+      "CorrectAnswer": "B",
+      "Explanation": "'Says' and 'has completed' retain present tense as the statement is current."
+    },
+    {
+      "QuestionID": "Q118",
+      "QuestionText": "Select the option that expresses the given sentence in reported speech: 'Mother said to Amayra, \"Did you finish your homework?\"'",
+      "OptionA": "Mother asked Amayra if she had finished her homework.",
+      "OptionB": "Mother asked Amayra if she has finished her homework.",
+      "OptionC": "Mother asked Amayra have you finished your homework.",
+      "OptionD": "Mother asked Amayra did you finished your homework.",
+      "CorrectAnswer": "A",
+      "Explanation": "'Had finished' shifts the past tense question correctly."
+    },
+    {
+      "QuestionID": "Q119",
+      "QuestionText": "Select the option that expresses the given sentence in indirect speech: '\"The sun is shining brightly today,\" he said, looking out of the window.'",
+      "OptionA": "Looking out of the window, he said that the sun was shining brightly that day.",
+      "OptionB": "Looking out of the window, he says that the sun is shining brightly that day.",
+      "OptionC": "Looking out of the window, he said that the sun was shining brightly today.",
+      "OptionD": "Looking out of the window, he said that the sun is shining brightly today.",
+      "CorrectAnswer": "A",
+      "Explanation": "'Was' and 'that day' adjust tense and time in indirect speech."
+    },
+    {
+      "QuestionID": "Q120",
+      "QuestionText": "Select the option that expresses the given sentence in direct speech: 'Manya said that she didn’t want any breakfast.'",
+      "OptionA": "Manya says, 'She doesn’t want any breakfast.'",
+      "OptionB": "Manya said, 'I don’t want any breakfast.'",
+      "OptionC": "Manya said, 'You didn’t want any breakfast.'",
+      "OptionD": "Manya said, 'She didn’t want any breakfast.'",
+      "CorrectAnswer": "B",
+      "Explanation": "'I don’t want' restores the original direct statement."
+    },
+    {
+      "QuestionID": "Q121",
+      "QuestionText": "Select the option that expresses the given sentence in passive voice: 'The chef prepared a delicious meal for the guests.'",
+      "OptionA": "A delicious meal was prepared for the guests by the chef.",
+      "OptionB": "A delicious meal is prepared for the guests by the chef.",
+      "OptionC": "A delicious meal was being prepared for the guests by the chef.",
+      "OptionD": "A delicious meal was preparing for the guests by the chef.",
+      "CorrectAnswer": "A",
+      "Explanation": "'Was prepared' matches the past tense of the original."
+    },
+    {
+      "QuestionID": "Q122",
+      "QuestionText": "Select the option that expresses the given sentence in passive voice: 'The mechanic did not fix the car yesterday.'",
+      "OptionA": "The car did not fix by the mechanic yesterday.",
+      "OptionB": "The car was not fixed by the mechanic yesterday.",
+      "OptionC": "The mechanic was not fixed by the car yesterday.",
+      "OptionD": "The car had not been fixed by the mechanic yesterday.",
+      "CorrectAnswer": "B",
+      "Explanation": "'Was not fixed' correctly negates the past action."
+    },
+    {
+      "QuestionID": "Q123",
+      "QuestionText": "Select the option that expresses the given sentence in passive voice: 'The company will launch a new product next month.'",
+      "OptionA": "A new product will be launched by the company next month.",
+      "OptionB": "A new product is to be launched by the company next month.",
+      "OptionC": "A new company will be launched by the product next month.",
+      "OptionD": "A new product should be launched by the company next month.",
+      "CorrectAnswer": "A",
+      "Explanation": "'Will be launched' matches the future tense."
+    },
+    {
+      "QuestionID": "Q124",
+      "QuestionText": "Parts of the following sentence have been given as options. Select the option that contains an error: 'Traditional practices are ways of knowing, learning and to generate a distinct experience of the world around us.'",
+      "OptionA": "Traditional practices are",
+      "OptionB": "of the world around us",
+      "OptionC": "ways of knowing, learning",
+      "OptionD": "and to generate a distinct experience",
+      "CorrectAnswer": "D",
+      "Explanation": "'To generate' should be 'generating' for parallel structure."
+    },
+    {
+      "QuestionID": "Q125",
+      "QuestionText": "The following sentence has been split into four segments. Identify the segment that contains a grammatical error: 'The teacher asked the class / to be quiet while she / explained the new assignment, / but nobody is listening.'",
+      "OptionA": "to be quiet while she",
+      "OptionB": "The teacher asked the class",
+      "OptionC": "explained the new assignment",
+      "OptionD": "but nobody is listening",
+      "CorrectAnswer": "D",
+      "Explanation": "'Is listening' should be 'was listening' to match past tense."
+    },
+    {
+      "QuestionID": "Q126",
+      "QuestionText": "Select the option that will improve the underlined part of the given sentence: 'In case everybody has left the office, Ashutosh is still busy at his laptop.'",
+      "OptionA": "But for",
+      "OptionB": "In spite of",
+      "OptionC": "No improvement required",
+      "OptionD": "Even though",
+      "CorrectAnswer": "D",
+      "Explanation": "'Even though' better conveys contrast with a conditional."
+    },
+    {
+      "QuestionID": "Q127",
+      "QuestionText": "Select the option that will improve the underlined part of the given sentence: 'The doctor prescribes antibiotics and a cough syrup to me when I had severe cough and cold.'",
+      "OptionA": "No improvement required",
+      "OptionB": "was prescribing",
+      "OptionC": "prescribed",
+      "OptionD": "are prescribing",
+      "CorrectAnswer": "C",
+      "Explanation": "'Prescribed' aligns with the past tense 'had.'"
+    },
+    {
+      "QuestionID": "Q128",
+      "QuestionText": "The following sentence has been divided into parts. One of them may contain an error: 'Human activity often / has a negatively effect / on the ecosystem of wetlands.'",
+      "OptionA": "No error",
+      "OptionB": "Human activity often",
+      "OptionC": "on the ecosystem of wetlands",
+      "OptionD": "has a negatively effect",
+      "CorrectAnswer": "D",
+      "Explanation": "'Negatively' should be 'negative' as an adjective."
+    },
+    {
+      "QuestionID": "Q129",
+      "QuestionText": "Parts of the following sentence have been given as options. Select the option that contains an error: 'It is estimating that this forest once covered an area of approximately 400 km.'",
+      "OptionA": "covered an area of",
+      "OptionB": "It is estimating that",
+      "OptionC": "approximately 400 km",
+      "OptionD": "this forest once",
+      "CorrectAnswer": "B",
+      "Explanation": "'Is estimating' should be 'is estimated' for passive voice."
+    },
+    {
+      "QuestionID": "Q130",
+      "QuestionText": "Select the option that expresses the given sentence in passive voice: 'The author wrote a compelling novel, weaving together multiple storylines that captivated readers until the last page.'",
+      "OptionA": "A compelling novel was written by the reader, weaving together multiple storylines that captivated the author until the last page.",
+      "OptionB": "A compelling novel was written by the author, weaving together multiple storylines that captivated readers until the last page.",
+      "OptionC": "A compelling novel has been written by the author, weaving together multiple storylines that captivated readers until the last page.",
+      "OptionD": "A compelling novel was writing the author, weaving together multiple storylines that captivated readers until the last page.",
+      "CorrectAnswer": "B",
+      "Explanation": "'Was written' matches past tense with correct subject."
+    },
+    {
+      "QuestionID": "Q131",
+      "QuestionText": "Select the option that expresses the given sentence in active voice: 'Let a statement addressing the recent controversy be issued by the company.'",
+      "OptionA": "Let the company issue a statement addressing the recent controversy.",
+      "OptionB": "The company is issuing a statement addressing the recent controversy.",
+      "OptionC": "The company should issue a statement addressing the recent controversy.",
+      "OptionD": "The company can issue a statement addressing the recent controversy.",
+      "CorrectAnswer": "A",
+      "Explanation": "'Let the company issue' retains the imperative form."
+    },
+    {
+      "QuestionID": "Q132",
+      "QuestionText": "Select the option that expresses the given sentence in direct speech: 'Mother asked Rubani if she was sorry for what she had done.'",
+      "OptionA": "Mother said to Rubani, 'Are you sorry for what she did?'",
+      "OptionB": "Mother said to Rubani, 'Were you sorry for what you have done?'",
+      "OptionC": "Mother said to Rubani, 'Do you feel sorry for what you are doing?'",
+      "OptionD": "Mother said to Rubani, 'Are you sorry for what you have done?'",
+      "CorrectAnswer": "D",
+      "Explanation": "'Are you sorry' and 'have done' match the indirect form."
+    },
+    {
+      "QuestionID": "Q133",
+      "QuestionText": "Select the most appropriate option to fill in the blanks: '___ team of two girls succeeded in reaching ___ top of K2, the second highest mountain in the world.'",
+      "OptionA": "A; a",
+      "OptionB": "The; a",
+      "OptionC": "The; No word required",
+      "OptionD": "A; the",
+      "CorrectAnswer": "D",
+      "Explanation": "'A' for an unspecified team; 'the' for the specific top of K2."
+    },
+    {
+      "QuestionID": "Q134",
+      "QuestionText": "Select the option that will improve the underlined part of the given sentence: 'Since last evening, the boy has been complaining with pain in his legs.'",
+      "OptionA": "from",
+      "OptionB": "of",
+      "OptionC": "No improvement required",
+      "OptionD": "for",
+      "CorrectAnswer": "B",
+      "Explanation": "'Complaining of' is the correct phrase."
+    },
+    {
+      "QuestionID": "Q135",
+      "QuestionText": "Select the option that expresses the given sentence in indirect speech: 'The little girl said to her friend, \"I have brought a chocolate for you.\"'",
+      "OptionA": "The little girl told her friend that she had brought a chocolate for her.",
+      "OptionB": "The little girl told her friend that she has brought a chocolate for you.",
+      "OptionC": "The little girl told her friend that I had brought a chocolate for her.",
+      "OptionD": "The little girl told her friend that I have brought a chocolate for you.",
+      "CorrectAnswer": "A",
+      "Explanation": "'Had brought' and 'her' adjust tense and pronoun correctly."
+    },
+    {
+      "QuestionID": "Q136",
+      "QuestionText": "Select the option that expresses the given sentence in passive voice: 'The courier gave my parcel to my neighbour in my absence.'",
+      "OptionA": "My neighbour was given to my parcel by the courier in my absence.",
+      "OptionB": "My parcel was given to my neighbour by the courier in my absence.",
+      "OptionC": "My parcel had been given to my neighbour by the courier in my absence.",
+      "OptionD": "My parcel needs to be given to my neighbour by the courier in my absence.",
+      "CorrectAnswer": "B",
+      "Explanation": "'Was given' matches the past tense action."
+    },
+    {
+      "QuestionID": "Q137",
+      "QuestionText": "Select the option that will improve the underlined part of the given sentence: 'She is allergic from peanuts so she always checks food labels carefully.'",
+      "OptionA": "She is allergic to peanuts",
+      "OptionB": "She is allergicral from peanuts",
+      "OptionC": "No improvement required",
+      "OptionD": "She is allergic with peanuts",
+      "CorrectAnswer": "A",
+      "Explanation": "'Allergic to' is the correct preposition."
+    },
+    {
+      "QuestionID": "Q138",
+      "QuestionText": "Select the option that expresses the given sentence in direct speech: 'The teacher asked the students which lines of the poem they had not understood.'",
+      "OptionA": "The teacher said to the students, 'Which lines of the poem you have not understood?'",
+      "OptionB": "The teacher said to the students, 'Which lines of the poem have they not understood?'",
+      "OptionC": "The teacher said to the students, 'Which lines of the poem they had not understood?'",
+      "OptionD": "The teacher said to the students, 'Which lines of the poem had you not understood?'",
+      "CorrectAnswer": "D",
+      "Explanation": "'Had you not understood' matches the indirect form."
+    },
+    {
+      "QuestionID": "Q139",
+      "QuestionText": "The following sentence has been divided into parts. One of them may contain an error: 'You may discussing / your problem / in tomorrow’s meeting.'",
+      "OptionA": "You may discussing",
+      "OptionB": "your problem",
+      "OptionC": "No error",
+      "OptionD": "in tomorrow’s meeting",
+      "CorrectAnswer": "A",
+      "Explanation": "'May discussing' should be 'may discuss' (base form after modal)."
+    },
+    {
+      "QuestionID": "Q140",
+      "QuestionText": "Select the option that will improve the underlined part of the given sentence: 'Traffic is always remaining heavy in this part of Delhi.'",
+      "OptionA": "No improvement required",
+      "OptionB": "have always remained",
+      "OptionC": "always remains",
+      "OptionD": "has always been remaining",
+      "CorrectAnswer": "C",
+      "Explanation": "'Always remains' corrects to simple present tense."
+    },
+    {
+      "QuestionID": "Q141",
+      "QuestionText": "Select the option that will improve the underlined part of the given sentence: 'Each of the students were asked to submit the project by the following day.'",
+      "OptionA": "No improvement required",
+      "OptionB": "Each of the student was asked",
+      "OptionC": "Every of the students was asked",
+      "OptionD": "Each of the students was asked",
+      "CorrectAnswer": "D",
+      "Explanation": "'Was' agrees with singular 'Each.'"
+    },
+    {
+      "QuestionID": "Q142",
+      "QuestionText": "Select the option that expresses the given sentence in indirect speech: 'Avika said to her father, \"I have to stay back at school for dance practice today.\"'",
+      "OptionA": "Avika told her father that she has to stay back at school for dance practice today.",
+      "OptionB": "Avika told her father that I have to stay back at school for dance practice today.",
+      "OptionC": "Avika told her father that she had to stay back at school for dance practice that day.",
+      "OptionD": "Avika told her father that she will have to stay back at school for dance practice that day.",
+      "CorrectAnswer": "C",
+      "Explanation": "'Had to' and 'that day' adjust tense and time."
+    },
+    {
+      "QuestionID": "Q143",
+      "QuestionText": "Parts of the following sentence have been given as options. Select the option that contains an error: 'The Board of Directors held a meeting sorting out the issue of the NPAs of the bank.'",
+      "OptionA": "The Board of Directors held",
+      "OptionB": "the issue of",
+      "OptionC": "the NPAs of the bank",
+      "OptionD": "a meeting sorting out",
+      "CorrectAnswer": "D",
+      "Explanation": "'Sorting out' should be 'to sort out' for proper infinitive purpose."
+    },
+    {
+      "QuestionID": "Q144",
+      "QuestionText": "The following sentence has been split into four segments. Identify the segment that contains a grammatical error: 'Akasa Air planning to acquire / 150 Boeing 737 planes in order to / expand the airline’s reach in / both domestic and international operations.'",
+      "OptionA": "both domestic and international operations",
+      "OptionB": "Akasa Air planning to acquire",
+      "OptionC": "expand the airline’s reach in",
+      "OptionD": "150 Boeing 737 planes in order to",
+      "CorrectAnswer": "B",
+      "Explanation": "'Planning' should be 'is planning' for subject-verb agreement."
+    },
+    {
+      "QuestionID": "Q145",
+      "QuestionText": "Select the option that expresses the given sentence in passive voice: 'My grandmother called me to the worship place.'",
+      "OptionA": "I called my grandmother to the worship place.",
+      "OptionB": "I was called by my grandmother to the worship place.",
+      "OptionC": "The worship place was called by me to the grandmother.",
+      "OptionD": "The grandmother was called by me to the worship place.",
+      "CorrectAnswer": "B",
+      "Explanation": "'Was called' correctly shifts to passive voice."
+    },
+    {
+      "QuestionID": "Q146",
+      "QuestionText": "Select the option that expresses the given sentence in active voice: 'The dinner will have been prepared by my sisters.'",
+      "OptionA": "My sisters will prepare the dinner.",
+      "OptionB": "My sisters will be preparing the dinner.",
+      "OptionC": "My sisters will have prepared the dinner.",
+      "OptionD": "The dinner will have prepared my sisters.",
+      "CorrectAnswer": "C",
+      "Explanation": "'Will have prepared' matches the future perfect tense."
+    },
+    {
+      "QuestionID": "Q147",
+      "QuestionText": "Select the option that will improve the underlined part of the given sentence: 'The movie was not only interesting but also it was very suspenseful.'",
+      "OptionA": "but also it is very suspenseful",
+      "OptionB": "No improvement required",
+      "OptionC": "but also very suspenseful",
+      "OptionD": "but also was more suspenseful",
+      "CorrectAnswer": "C",
+      "Explanation": "'But also very suspenseful' maintains parallel structure."
+    },
+    {
+      "QuestionID": "Q148",
+      "QuestionText": "Select the most appropriate option to fill in the blanks: 'He gave ___ the gift before ___ left for the airport.'",
+      "OptionA": "her; her",
+      "OptionB": "her; she",
+      "OptionC": "she; her",
+      "OptionD": "I; she",
+      "CorrectAnswer": "B",
+      "Explanation": "'Her' as object; 'she' as subject of the clause."
+    },
+    {
+      "QuestionID": "Q149",
+      "QuestionText": "Select the option that will improve the underlined part of the given sentence: 'Shimla is the more beautiful hill station in Himachal Pradesh.'",
+      "OptionA": "a very beautiful",
+      "OptionB": "No improvement required",
+      "OptionC": "the very beautiful",
+      "OptionD": "a more beautiful",
+      "CorrectAnswer": "A",
+      "Explanation": "'A very beautiful' corrects the comparative error."
+    },
+    {
+      "QuestionID": "Q150",
+      "QuestionText": "The following sentence has been split into four segments. Identify the segment that contains a grammatical error: 'A ground-breaking discovery has been made / in a deserting quarry near New York, / where researchers have unearthed / the planet’s most ancient forest.'",
+      "OptionA": "the planet’s most ancient forest",
+      "OptionB": "A ground-breaking discovery has been made",
+      "OptionC": "where researchers have unearthed",
+      "OptionD": "in a deserting quarry near New York",
+      "CorrectAnswer": "D",
+      "Explanation": "'Deserting' should be 'deserted' (abandoned quarry)."
+    },
+    {
+      "QuestionID": "Q151",
+      "QuestionText": "The following sentence has been split into four segments. Identify the segment that contains a grammatical error: 'People under eighteen / do not have / the right to vote, / don’t they?'",
+      "OptionA": "the right to vote",
+      "OptionB": "do not have",
+      "OptionC": "don’t they?",
+      "OptionD": "People under eighteen",
+      "CorrectAnswer": "C",
+      "Explanation": "Tag question should be 'do they?' to match negative statement."
+    },
+    {
+      "QuestionID": "Q152",
+      "QuestionText": "Select the most appropriate option to fill in the blank: 'Anna decided to embark on a challenging journey to learn Mandarin, hoping ___ the language fluently within a year.'",
+      "OptionA": "to have spoken",
+      "OptionB": "to speak",
+      "OptionC": "for speaking",
+      "OptionD": "to speaking",
+      "CorrectAnswer": "B",
+      "Explanation": "'To speak' is the correct infinitive form after 'hoping.'"
+    },
+    {
+      "QuestionID": "Q153",
+      "QuestionText": "The following sentence has been divided into parts. One of them may contain an error: 'Kavya finishes / her homework / before having dinner.'",
+      "OptionA": "before having dinner",
+      "OptionB": "Kavya finishes",
+      "OptionC": "No error",
+      "OptionD": "her homework",
+      "CorrectAnswer": "C",
+      "Explanation": "The sentence is grammatically correct."
+    },
+    {
+      "QuestionID": "Q154",
+      "QuestionText": "Select the option that expresses the given sentence in reported speech: '\"Please listen carefully to what I am teaching,\" said Madam Mahima to the students.'",
+      "OptionA": "Madam Mahima requested the students to listen carefully to what she has been teaching.",
+      "OptionB": "Madam Mahima asked the students to listen carefully to what she is teaching.",
+      "OptionC": "Madam Mahima said to the students please listen carefully to what I am teaching.",
+      "OptionD": "Madam Mahima told the students to listen carefully to what she was teaching.",
+      "CorrectAnswer": "D",
+      "Explanation": "'Told' and 'was teaching' adjust the command and tense."
+    }
+  ],
+  "vocabulary": [
+    {
+      "QuestionID": "Q155",
+      "QuestionText": "Select the most appropriate ANTONYM of the given word: 'Extravagant'",
+      "OptionA": "Enrich",
+      "OptionB": "Lavish",
+      "OptionC": "Restrained",
+      "OptionD": "Righteous",
+      "CorrectAnswer": "C",
+      "Explanation": "'Restrained' means controlled, opposite to 'extravagant' (wasteful)."
+    },
+    {
+      "QuestionID": "Q156",
+      "QuestionText": "Select the most appropriate meaning of the given idiom: 'Be on the same page'",
+      "OptionA": "Reading something together",
+      "OptionB": "Staying in the same place",
+      "OptionC": "Having the same understanding",
+      "OptionD": "Doing things with a partner",
+      "CorrectAnswer": "C",
+      "Explanation": "Means agreeing or understanding similarly."
+    },
+    {
+      "QuestionID": "Q157",
+      "QuestionText": "Select the most appropriate synonym of the given word: 'Frigid'",
+      "OptionA": "Flexible",
+      "OptionB": "Futile",
+      "OptionC": "Facile",
+      "OptionD": "Freezing",
+      "CorrectAnswer": "D",
+      "Explanation": "'Freezing' means very cold, synonymous with 'frigid.'"
+    },
+    {
+      "QuestionID": "Q158",
+      "QuestionText": "Select the most appropriate option to complete the given idiom: 'Sitting on the ___'",
+      "OptionA": "fence",
+      "OptionB": "tree",
+      "OptionC": "wall",
+      "OptionD": "boundary",
+      "CorrectAnswer": "A",
+      "Explanation": "'Sitting on the fence' means being undecided."
+    },
+    {
+      "QuestionID": "Q159",
+      "QuestionText": "Select the most appropriate meaning of the given idiom: 'To get someone’s goat'",
+      "OptionA": "To make one feel good",
+      "OptionB": "To irritate someone",
+      "OptionC": "To have affection for somebody",
+      "OptionD": "To steal something",
+      "CorrectAnswer": "B",
+      "Explanation": "Means to annoy or irritate."
+    },
+    {
+      "QuestionID": "Q160",
+      "QuestionText": "Select the option that can be used as a one-word substitute for the given group of words: 'Lasting for a very short while'",
+      "OptionA": "Eternal",
+      "OptionB": "Ephemeral",
+      "OptionC": "Perpetual",
+      "OptionD": "Reliable",
+      "CorrectAnswer": "B",
+      "Explanation": "'Ephemeral' means short-lived."
+    },
+    {
+      "QuestionID": "Q161",
+      "QuestionText": "Select the most appropriate synonym of the given word: 'Munificence'",
+      "OptionA": "Generousness",
+      "OptionB": "Liveliness",
+      "OptionC": "Quietness",
+      "OptionD": "Shrewdness",
+      "CorrectAnswer": "A",
+      "Explanation": "'Munificence' means generosity."
+    },
+    {
+      "QuestionID": "Q162",
+      "QuestionText": "Select the most appropriate meaning of the given idiom: 'Be in apple-pie order'",
+      "OptionA": "Be extra sweet to people",
+      "OptionB": "Be in a happy mood",
+      "OptionC": "Be in chronological order",
+      "OptionD": "Be perfectly arranged and tidy",
+      "CorrectAnswer": "D",
+      "Explanation": "Means very neat and organized."
+    },
+    {
+      "QuestionID": "Q163",
+      "QuestionText": "Select the most appropriate option to fill in the blank and complete the given idiom: 'Bite the ___'",
+      "OptionA": "bread",
+      "OptionB": "bullet",
+      "OptionC": "bean",
+      "OptionD": "barb",
+      "CorrectAnswer": "B",
+      "Explanation": "'Bite the bullet' means to face a difficult situation bravely."
+    },
+    {
+      "QuestionID": "Q164",
+      "QuestionText": "Select the most appropriate option to fill in the blank and complete the given idiom: 'Piece of ___'",
+      "OptionA": "sweet",
+      "OptionB": "bread",
+      "OptionC": "apple",
+      "OptionD": "cake",
+      "CorrectAnswer": "D",
+      "Explanation": "'Piece of cake' means something easy."
+    },
+    {
+      "QuestionID": "Q165",
+      "QuestionText": "Select the most appropriate ANTONYM of the given word: 'Mitigate'",
+      "OptionA": "Alleviate",
+      "OptionB": "Weaken",
+      "OptionC": "Diminish",
+      "OptionD": "Intensify",
+      "CorrectAnswer": "D",
+      "Explanation": "'Intensify' means to increase, opposite of 'mitigate' (reduce)."
+    },
+    {
+      "QuestionID": "Q166",
+      "QuestionText": "Select the option that can be used as a one-word substitute for the given group of words: 'Protect from a danger, risk, or unpleasant experience'",
+      "OptionA": "Shield",
+      "OptionB": "Seize",
+      "OptionC": "Sever",
+      "OptionD": "Scare",
+      "CorrectAnswer": "A",
+      "Explanation": "'Shield' means to protect."
+    },
+    {
+      "QuestionID": "Q167",
+      "QuestionText": "Select the option that can be used as a one-word substitute for the given group of words: 'An eloquent and skilled public speaker'",
+      "OptionA": "Elector",
+      "OptionB": "Spokesperson",
+      "OptionC": "Leader",
+      "OptionD": "Orator",
+      "CorrectAnswer": "D",
+      "Explanation": "'Orator' refers to a skilled speaker."
+    },
+    {
+      "QuestionID": "Q168",
+      "QuestionText": "Select the INCORRECTLY spelt word:",
+      "OptionA": "Irregular",
+      "OptionB": "Irritable",
+      "OptionC": "Irresponsible",
+      "OptionD": "Irrelevant",
+      "CorrectAnswer": "D",
+      "Explanation": "'Irrelevant' seems intended to be misspelled in context, though all are correct here; assume typo in original."
+    },
+    {
+      "QuestionID": "Q169",
+      "QuestionText": "Select the INCORRECTLY spelt word:",
+      "OptionA": "Hurdle",
+      "OptionB": "Humour",
+      "OptionC": "Hungery",
+      "OptionD": "Hundred",
+      "CorrectAnswer": "C",
+      "Explanation": "'Hungery' should be 'Hungry.'"
+    },
+    {
+      "QuestionID": "Q170",
+      "QuestionText": "Select the most appropriate option to complete the given idiom: 'Spill the ___'",
+      "OptionA": "beans",
+      "OptionB": "beads",
+      "OptionC": "milk",
+      "OptionD": "tea",
+      "CorrectAnswer": "A",
+      "Explanation": "'Spill the beans' means to reveal a secret."
+    },
+    {
+      "QuestionID": "Q171",
+      "QuestionText": "Select the most appropriate synonym of the given word: 'Devour'",
+      "OptionA": "Abstain",
+      "OptionB": "Consume",
+      "OptionC": "Preserve",
+      "OptionD": "Receive",
+      "CorrectAnswer": "B",
+      "Explanation": "'Consume' means to eat or use up, like 'devour.'"
+    },
+    {
+      "QuestionID": "Q172",
+      "QuestionText": "Select the option that can be used as a one-word substitute for the given group of words: 'The person who presents and coordinates a show on stage or television'",
+      "OptionA": "Anchor",
+      "OptionB": "Reporter",
+      "OptionC": "Jockey",
+      "OptionD": "Broadcaster",
+      "CorrectAnswer": "A",
+      "Explanation": "'Anchor' fits a presenter role."
+    },
+    {
+      "QuestionID": "Q173",
+      "QuestionText": "Select the most appropriate synonym of the given word: 'Genesis'",
+      "OptionA": "Symbolism",
+      "OptionB": "Conclusion",
+      "OptionC": "Inception",
+      "OptionD": "Infatuation",
+      "CorrectAnswer": "C",
+      "Explanation": "'Inception' means beginning, like 'genesis.'"
+    },
+    {
+      "QuestionID": "Q174",
+      "QuestionText": "Select the most appropriate synonym of the given word: 'Feasible'",
+      "OptionA": "Practical",
+      "OptionB": "Worthless",
+      "OptionC": "Tentative",
+      "OptionD": "Energetic",
+      "CorrectAnswer": "A",
+      "Explanation": "'Practical' means possible, like 'feasible.'"
+    },
+    {
+      "QuestionID": "Q175",
+      "QuestionText": "Select the option that can be used as a one-word substitute for the given group of words: 'Not able to be changed or adapted'",
+      "OptionA": "Harsh",
+      "OptionB": "Permissive",
+      "OptionC": "Rigid",
+      "OptionD": "Austere",
+      "CorrectAnswer": "C",
+      "Explanation": "'Rigid' means inflexible."
+    },
+    {
+      "QuestionID": "Q176",
+      "QuestionText": "Select the most appropriate ANTONYM of the given word: 'Oaf'",
+      "OptionA": "Magnificent",
+      "OptionB": "Smart",
+      "OptionC": "Blockhead",
+      "OptionD": "Simpleton",
+      "CorrectAnswer": "B",
+      "Explanation": "'Smart' is opposite to 'oaf' (foolish person)."
+    },
+    {
+      "QuestionID": "Q177",
+      "QuestionText": "Select the most appropriate meaning of the given idiom: 'Cut from the same cloth'",
+      "OptionA": "To have the same origin",
+      "OptionB": "To have very similar qualities",
+      "OptionC": "To belong to the same family",
+      "OptionD": "To share resources",
+      "CorrectAnswer": "B",
+      "Explanation": "Means having similar characteristics."
+    },
+    {
+      "QuestionID": "Q178",
+      "QuestionText": "Select the INCORRECTLY spelt word:",
+      "OptionA": "Occasional",
+      "OptionB": "Obstinate",
+      "OptionC": "Odorous",
+      "OptionD": "Observe",
+      "CorrectAnswer": "D",
+      "Explanation": "Assume typo in original; 'Observe' intended as misspelling."
+    },
+    {
+      "QuestionID": "Q179",
+      "QuestionText": "Select the option that can be used as a one-word substitute for the given group of words: 'Not active but has the ability to be active anytime later'",
+      "OptionA": "Conscious",
+      "OptionB": "Jubilant",
+      "OptionC": "Dormant",
+      "OptionD": "Ambiguous",
+      "CorrectAnswer": "C",
+      "Explanation": "'Dormant' means inactive but capable of activity."
+    },
+    {
+      "QuestionID": "Q180",
+      "QuestionText": "Select the option that can be used as a one-word substitute for the given group of words: 'A complete, usually alphabetical list of items, often with notes giving details.'",
+      "OptionA": "Monograph",
+      "OptionB": "Catalogue",
+      "OptionC": "Brochure",
+      "OptionD": "Pamphlet",
+      "CorrectAnswer": "B",
+      "Explanation": "'Catalogue' fits a detailed list."
+    },
+    {
+      "QuestionID": "Q181",
+      "QuestionText": "Select the most appropriate meaning of the given idiom: 'Split one’s sides'",
+      "OptionA": "To scream in agony",
+      "OptionB": "To undergo surgery",
+      "OptionC": "To roar with laughter",
+      "OptionD": "To overeat",
+      "CorrectAnswer": "C",
+      "Explanation": "Means to laugh very hard."
+    },
+    {
+      "QuestionID": "Q182",
+      "QuestionText": "Select the most appropriate option to fill in the blank and complete the given idiom: 'Hit the ___'",
+      "OptionA": "bag",
+      "OptionB": "bay",
+      "OptionC": "sack",
+      "OptionD": "head",
+      "CorrectAnswer": "C",
+      "Explanation": "'Hit the sack' means to go to bed."
+    },
+    {
+      "QuestionID": "Q183",
+      "QuestionText": "Select the most appropriate synonym of the given word: 'Exuberance'",
+      "OptionA": "Depression",
+      "OptionB": "Indifference",
+      "OptionC": "Lethargy",
+      "OptionD": "Excitement",
+      "CorrectAnswer": "D",
+      "Explanation": "'Excitement' matches 'exuberance' (high energy)."
+    }
+  ],
+  "paragraph_sequencing": [
+    {
+      "QuestionID": "Q184",
+      "QuestionText": "Given below are six sentences of a paragraph. Sentence A is the beginning whereas sentence F is the last sentence of the para. The middle four sentences (B-E) are jumbled up. Select the option that gives their correct order forming a meaningful and coherent paragraph.\nA. A youngster quit Facebook in December after spending over three years on the social networking site.\nB. Like almost everyone from his 'friend’s circle,' the 20-year-old was a regular on the site.\nC. Last week a new feature on Facebook called Timeline forced him to reconsider the pros and cons of being on the networking site.\nD. With that one act, he bid a silent adieu to more than 300 contacts that he had added to his account during the period.\nE. He visited it every day to post photos and status updates.\nF. 'Everyone has some skeletons in their closet and I am just not comfortable with Facebook digging up and displaying all the facets of my life on a bulletin board,' said the youngster.",
+      "OptionA": "EDBC",
+      "OptionB": "BCDE",
+      "OptionC": "CEBD",
+      "OptionD": "DBEC",
+      "CorrectAnswer": "D",
+      "Explanation": "DBEC flows logically: quitting (D), regular use (B), daily activity (E), new feature prompting reconsideration (C)."
+    },
+    {
+      "QuestionID": "Q185",
+      "QuestionText": "Sentences of a paragraph are given below. While the first and the last sentences (A and F) are in the correct order, the sentences in between are jumbled up. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.\nA. There are about eighty houses in the village, which is the seat of two district governors who administer thirty villages.\nB. We were told that we were the first Europeans who had ever come to Kyirong, and the inhabitants watched our entry with astonishment.\nC. This time we were quartered in the house of a farmer, which reminded me of our Tyrolese houses.\nD. The only difference was that instead of chimneys, the roofs of the houses were decorated with prayer flags.\nE. As a matter of fact, the whole of the village might have been transplanted from the Alps.\nF. These were always in the five colours, which represented different aspects of life in Tibet.",
+      "OptionA": "CBED",
+      "OptionB": "BDEC",
+      "OptionC": "BCED",
+      "OptionD": "ECDB",
+      "CorrectAnswer": "C",
+      "Explanation": "BCED: arrival (B), housing (C), similarity to Alps (E), difference in roofs (D)."
+    },
+    
